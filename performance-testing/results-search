@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1739642100712,977,HTTP Request,200,OK,Search Threads Group 1-4,text,true,,13740,133,12,12,https://open.spotify.com/search/Hello,921,0,756
+1739642100603,1095,HTTP Request,200,OK,Search Threads Group 1-3,text,true,,13733,133,13,13,https://open.spotify.com/search/Hello,1087,0,865
+1739642100929,766,HTTP Request,200,OK,Search Threads Group 1-6,text,true,,13562,133,13,13,https://open.spotify.com/search/Hello,762,0,539
+1739642100821,1080,HTTP Request,200,OK,Search Threads Group 1-5,text,true,,13498,133,11,11,https://open.spotify.com/search/Hello,818,0,647
+1739642101475,531,HTTP Request,200,OK,Search Threads Group 1-11,text,true,,44022,133,11,11,https://open.spotify.com/search/Hello,524,0,240
+1739642101584,449,HTTP Request,200,OK,Search Threads Group 1-12,text,true,,26536,133,11,11,https://open.spotify.com/search/Hello,429,0,228
+1739642100524,1680,HTTP Request,200,OK,Search Threads Group 1-2,text,true,,57138,133,11,11,https://open.spotify.com/search/Hello,1385,0,944
+1739642101911,501,HTTP Request,200,OK,Search Threads Group 1-15,text,true,,56823,133,12,12,https://open.spotify.com/search/Hello,390,0,189
+1739642101799,709,HTTP Request,200,OK,Search Threads Group 1-14,text,true,,44116,133,12,12,https://open.spotify.com/search/Hello,404,0,214
+1739642101148,1385,HTTP Request,200,OK,Search Threads Group 1-8,text,true,,26715,133,11,11,https://open.spotify.com/search/Hello,1367,0,1161
+1739642102124,413,HTTP Request,200,OK,Search Threads Group 1-17,text,true,,26418,133,10,10,https://open.spotify.com/search/Hello,400,0,186
+1739642102234,402,HTTP Request,200,OK,Search Threads Group 1-18,text,true,,26370,133,10,10,https://open.spotify.com/search/Hello,383,0,191
+1739642101260,1411,HTTP Request,200,OK,Search Threads Group 1-9,text,true,,13620,133,10,10,https://open.spotify.com/search/Hello,1406,0,1251
+1739642101370,1451,HTTP Request,200,OK,Search Threads Group 1-10,text,true,,13499,133,10,10,https://open.spotify.com/search/Hello,1447,0,1244
+1739642102341,480,HTTP Request,200,OK,Search Threads Group 1-19,text,true,,43975,133,10,10,https://open.spotify.com/search/Hello,388,0,174
+1739642102448,379,HTTP Request,200,OK,Search Threads Group 1-20,text,true,,26423,133,8,8,https://open.spotify.com/search/Hello,373,0,169
+1739642102556,301,HTTP Request,200,OK,Search Threads Group 1-21,text,true,,13502,133,7,7,https://open.spotify.com/search/Hello,298,0,161
+1739642102018,857,HTTP Request,200,OK,Search Threads Group 1-16,text,true,,43935,133,6,6,https://open.spotify.com/search/Hello,345,0,189
+1739642102664,444,HTTP Request,200,OK,Search Threads Group 1-22,text,true,,44058,133,8,8,https://open.spotify.com/search/Hello,369,0,163
+1739642102772,555,HTTP Request,200,OK,Search Threads Group 1-23,text,true,,57055,133,9,9,https://open.spotify.com/search/Hello,391,0,161
+1739642100524,2953,HTTP Request,200,OK,Search Threads Group 1-1,text,true,,56987,133,9,9,https://open.spotify.com/search/Hello,1810,0,1287
+1739642102988,649,HTTP Request,200,OK,Search Threads Group 1-25,text,true,,57002,133,9,9,https://open.spotify.com/search/Hello,559,0,196
+1739642103313,374,HTTP Request,200,OK,Search Threads Group 1-28,text,true,,13573,133,9,9,https://open.spotify.com/search/Hello,371,0,223
+1739642103096,639,HTTP Request,200,OK,Search Threads Group 1-26,text,true,,26670,133,8,8,https://open.spotify.com/search/Hello,638,0,180
+1739642101037,2903,HTTP Request,200,OK,Search Threads Group 1-7,text,true,,57140,133,9,9,https://open.spotify.com/search/Hello,1676,0,1175
+1739642103642,367,HTTP Request,200,OK,Search Threads Group 1-31,text,true,,13498,133,9,9,https://open.spotify.com/search/Hello,355,0,206
+1739642103422,621,HTTP Request,200,OK,Search Threads Group 1-29,text,true,,43947,133,8,8,https://open.spotify.com/search/Hello,620,0,220
+1739642103750,545,HTTP Request,200,OK,Search Threads Group 1-32,text,true,,13502,133,10,10,https://open.spotify.com/search/Hello,544,0,192
+1739642103859,436,HTTP Request,200,OK,Search Threads Group 1-33,text,true,,26320,133,10,10,https://open.spotify.com/search/Hello,435,0,185
+1739642102882,1486,HTTP Request,200,OK,Search Threads Group 1-24,text,true,,43959,133,8,8,https://open.spotify.com/search/Hello,1412,0,1162
+1739642103205,1455,HTTP Request,200,OK,Search Threads Group 1-27,text,true,,13498,133,10,10,https://open.spotify.com/search/Hello,1455,0,1260
+1739642104292,371,HTTP Request,200,OK,Search Threads Group 1-37,text,true,,13616,133,9,9,https://open.spotify.com/search/Hello,371,0,174
+1739642104073,596,HTTP Request,200,OK,Search Threads Group 1-35,text,true,,57169,133,8,8,https://open.spotify.com/search/Hello,512,0,226
+1739642104402,407,HTTP Request,200,OK,Search Threads Group 1-38,text,true,,26375,133,8,8,https://open.spotify.com/search/Hello,391,0,170
+1739642103968,903,HTTP Request,200,OK,Search Threads Group 1-34,text,true,,44029,133,8,8,https://open.spotify.com/search/Hello,383,0,179
+1739642104181,690,HTTP Request,200,OK,Search Threads Group 1-36,text,true,,56861,133,8,8,https://open.spotify.com/search/Hello,580,0,197
+1739642104510,419,HTTP Request,200,OK,Search Threads Group 1-39,text,true,,13500,133,6,6,https://open.spotify.com/search/Hello,403,0,163
+1739642103531,1742,HTTP Request,200,OK,Search Threads Group 1-30,text,true,,44163,133,9,9,https://open.spotify.com/search/Hello,1659,0,1250
+1739642105604,595,HTTP Request,200,OK,Search Threads Group 1-49,text,true,,43661,133,16,16,https://open.spotify.com/search/Hello,595,0,184
+1739642105812,420,HTTP Request,200,OK,Search Threads Group 1-51,text,true,,26604,133,15,15,https://open.spotify.com/search/Hello,402,0,186
+1739642104618,1685,HTTP Request,200,OK,Search Threads Group 1-40,text,true,,56955,133,15,15,https://open.spotify.com/search/Hello,1531,0,1169
+1739642105703,600,HTTP Request,200,OK,Search Threads Group 1-50,text,true,,57018,133,15,15,https://open.spotify.com/search/Hello,496,0,189
+1739642105922,582,HTTP Request,200,OK,Search Threads Group 1-52,text,true,,44016,133,15,15,https://open.spotify.com/search/Hello,321,0,172
+1739642106032,488,HTTP Request,200,OK,Search Threads Group 1-53,text,true,,26416,133,14,14,https://open.spotify.com/search/Hello,478,0,170
+1739642104726,1803,HTTP Request,200,OK,Search Threads Group 1-41,text,true,,44071,133,13,13,https://open.spotify.com/search/Hello,444,0,240
+1739642106245,306,HTTP Request,200,OK,Search Threads Group 1-55,text,true,,13617,133,12,12,https://open.spotify.com/search/Hello,303,0,163
+1739642106354,354,HTTP Request,200,OK,Search Threads Group 1-56,text,true,,13446,133,13,13,https://open.spotify.com/search/Hello,354,0,169
+1739642105052,1678,HTTP Request,200,OK,Search Threads Group 1-44,text,true,,43847,133,12,12,https://open.spotify.com/search/Hello,1602,0,1256
+1739642106139,594,HTTP Request,200,OK,Search Threads Group 1-54,text,true,,43942,133,11,11,https://open.spotify.com/search/Hello,593,0,170
+1739642105161,1582,HTTP Request,200,OK,Search Threads Group 1-45,text,true,,56624,133,10,10,https://open.spotify.com/search/Hello,1496,0,1247
+1739642104944,1883,HTTP Request,200,OK,Search Threads Group 1-43,text,true,,26555,133,10,10,https://open.spotify.com/search/Hello,1708,0,1362
+1739642105269,1643,HTTP Request,200,OK,Search Threads Group 1-46,text,true,,44004,133,10,10,https://open.spotify.com/search/Hello,1395,0,1243
+1739642106570,469,HTTP Request,200,OK,Search Threads Group 1-58,text,true,,26685,133,10,10,https://open.spotify.com/search/Hello,451,0,253
+1739642106786,451,HTTP Request,200,OK,Search Threads Group 1-60,text,true,,13680,133,11,11,https://open.spotify.com/search/Hello,444,0,228
+1739642105377,2095,HTTP Request,200,OK,Search Threads Group 1-47,text,true,,26538,133,12,12,https://open.spotify.com/search/Hello,1475,0,1285
+1739642107236,496,HTTP Request,200,OK,Search Threads Group 1-64,text,true,,57041,133,13,13,https://open.spotify.com/search/Hello,393,0,192
+1739642107347,588,HTTP Request,200,OK,Search Threads Group 1-65,text,true,,13690,133,14,14,https://open.spotify.com/search/Hello,485,0,177
+1739642107554,421,HTTP Request,200,OK,Search Threads Group 1-67,text,true,,26538,133,14,14,https://open.spotify.com/search/Hello,405,0,181
+1739642107655,327,HTTP Request,200,OK,Search Threads Group 1-68,text,true,,13449,133,13,13,https://open.spotify.com/search/Hello,322,0,181
+1739642106895,1142,HTTP Request,200,OK,Search Threads Group 1-61,text,true,,26601,133,12,12,https://open.spotify.com/search/Hello,1142,0,223
+1739642107454,586,HTTP Request,200,OK,Search Threads Group 1-66,text,true,,56983,133,11,11,https://open.spotify.com/search/Hello,489,0,177
+1739642106681,1407,HTTP Request,200,OK,Search Threads Group 1-59,text,true,,26545,133,11,11,https://open.spotify.com/search/Hello,1391,0,1156
+1739642107855,421,HTTP Request,200,OK,Search Threads Group 1-70,text,true,,26489,133,12,12,https://open.spotify.com/search/Hello,402,0,184
+1739642107953,343,HTTP Request,200,OK,Search Threads Group 1-71,text,true,,13442,133,11,11,https://open.spotify.com/search/Hello,339,0,193
+1739642107753,591,HTTP Request,200,OK,Search Threads Group 1-69,text,true,,43707,133,10,10,https://open.spotify.com/search/Hello,387,0,185
+1739642106465,1907,HTTP Request,200,OK,Search Threads Group 1-57,text,true,,43972,133,10,10,https://open.spotify.com/search/Hello,1311,0,1169
+1739642108053,406,HTTP Request,200,OK,Search Threads Group 1-72,text,true,,26377,133,10,10,https://open.spotify.com/search/Hello,395,0,190
+1739642108155,349,HTTP Request,200,OK,Search Threads Group 1-73,text,true,,13498,133,9,9,https://open.spotify.com/search/Hello,344,0,189
+1739642108253,344,HTTP Request,200,OK,Search Threads Group 1-74,text,true,,13737,133,9,9,https://open.spotify.com/search/Hello,337,0,198
+1739642108452,485,HTTP Request,200,OK,Search Threads Group 1-76,text,true,,26545,133,11,11,https://open.spotify.com/search/Hello,484,0,201
+1739642108851,636,HTTP Request,200,OK,Search Threads Group 1-80,text,true,,57010,133,16,16,https://open.spotify.com/search/Hello,538,0,215
+1739642109051,465,HTTP Request,200,OK,Search Threads Group 1-82,text,true,,26660,133,15,15,https://open.spotify.com/search/Hello,443,0,223
+1739642108351,1221,HTTP Request,200,OK,Search Threads Group 1-75,text,true,,56841,133,15,15,https://open.spotify.com/search/Hello,406,0,199
+1739642108952,620,HTTP Request,200,OK,Search Threads Group 1-81,text,true,,44286,133,15,15,https://open.spotify.com/search/Hello,620,0,216
+1739642108753,1178,HTTP Request,200,OK,Search Threads Group 1-79,text,true,,43662,133,16,16,https://open.spotify.com/search/Hello,613,0,312
+1739642109250,1656,HTTP Request,200,OK,Search Threads Group 1-84,text,true,,43982,133,25,25,https://open.spotify.com/search/Hello,1556,0,1251
+1739642110450,558,HTTP Request,200,OK,Search Threads Group 1-96,text,true,,44074,133,25,25,https://open.spotify.com/search/Hello,313,0,159
+1739642110550,458,HTTP Request,200,OK,Search Threads Group 1-97,text,true,,44082,133,25,25,https://open.spotify.com/search/Hello,356,0,154
+1739642109349,1661,HTTP Request,200,OK,Search Threads Group 1-85,text,true,,56990,133,23,23,https://open.spotify.com/search/Hello,1564,0,1252
+1739642109650,1393,HTTP Request,200,OK,Search Threads Group 1-88,text,true,,26570,133,22,22,https://open.spotify.com/search/Hello,1373,0,1173
+1739642110752,361,HTTP Request,200,OK,Search Threads Group 1-99,text,true,,13562,133,22,22,https://open.spotify.com/search/Hello,361,0,166
+1739642110350,865,HTTP Request,200,OK,Search Threads Group 1-95,text,true,,44074,133,22,22,https://open.spotify.com/search/Hello,709,0,251
+1739642109849,1471,HTTP Request,200,OK,Search Threads Group 1-90,text,true,,43911,133,22,22,https://open.spotify.com/search/Hello,1371,0,1167
+1739642110850,475,HTTP Request,200,OK,Search Threads Group 1-100,text,true,,44186,133,21,21,https://open.spotify.com/search/Hello,471,0,163
+1739642110650,768,HTTP Request,200,OK,Search Threads Group 1-98,text,true,,13442,133,21,21,https://open.spotify.com/search/Hello,317,0,172
+1739642109948,1470,HTTP Request,200,OK,Search Threads Group 1-91,text,true,,44182,133,21,21,https://open.spotify.com/search/Hello,1369,0,1171
+1739642110048,1400,HTTP Request,200,OK,Search Threads Group 1-92,text,true,,26306,133,20,20,https://open.spotify.com/search/Hello,1382,0,1173
+1739642108552,2971,HTTP Request,200,OK,Search Threads Group 1-77,text,true,,13498,133,19,19,https://open.spotify.com/search/Hello,818,0,207
+1739642110949,574,HTTP Request,200,OK,Search Threads Group 1-101,text,true,,57162,133,19,19,https://open.spotify.com/search/Hello,422,0,166
+1739642111049,479,HTTP Request,200,OK,Search Threads Group 1-102,text,true,,56819,133,17,17,https://open.spotify.com/search/Hello,374,0,170
+1739642110148,1487,HTTP Request,200,OK,Search Threads Group 1-93,text,true,,56841,133,17,17,https://open.spotify.com/search/Hello,1381,0,1179
+1739642110248,1387,HTTP Request,200,OK,Search Threads Group 1-94,text,true,,13635,133,17,17,https://open.spotify.com/search/Hello,1385,0,1175
+1739642111347,336,HTTP Request,200,OK,Search Threads Group 1-105,text,true,,13735,133,16,16,https://open.spotify.com/search/Hello,331,0,185
+1739642111647,333,HTTP Request,200,OK,Search Threads Group 1-108,text,true,,13854,133,18,18,https://open.spotify.com/search/Hello,329,0,177
+1739642111549,562,HTTP Request,200,OK,Search Threads Group 1-107,text,true,,44088,133,18,18,https://open.spotify.com/search/Hello,334,0,177
+1739642111747,401,HTTP Request,200,OK,Search Threads Group 1-109,text,true,,26548,133,18,18,https://open.spotify.com/search/Hello,386,0,188
+1739642111945,525,HTTP Request,200,OK,Search Threads Group 1-111,text,true,,26538,133,20,20,https://open.spotify.com/search/Hello,501,0,292
+1739642112144,345,HTTP Request,200,OK,Search Threads Group 1-113,text,true,,13565,133,19,19,https://open.spotify.com/search/Hello,343,0,194
+1739642111846,702,HTTP Request,200,OK,Search Threads Group 1-110,text,true,,26488,133,19,19,https://open.spotify.com/search/Hello,702,0,266
+1739642111448,1100,HTTP Request,200,OK,Search Threads Group 1-106,text,true,,26618,133,19,19,https://open.spotify.com/search/Hello,1100,0,188
+1739642111150,1517,HTTP Request,200,OK,Search Threads Group 1-103,text,true,,43939,133,18,18,https://open.spotify.com/search/Hello,1445,0,174
+1739642112245,430,HTTP Request,200,OK,Search Threads Group 1-114,text,true,,26423,133,17,17,https://open.spotify.com/search/Hello,411,0,203
+1739642112343,513,HTTP Request,200,OK,Search Threads Group 1-115,text,true,,57004,133,18,18,https://open.spotify.com/search/Hello,419,0,208
+1739642112443,425,HTTP Request,200,OK,Search Threads Group 1-116,text,true,,26542,133,17,17,https://open.spotify.com/search/Hello,412,0,202
+1739642112044,990,HTTP Request,200,OK,Search Threads Group 1-112,text,true,,57036,133,17,17,https://open.spotify.com/search/Hello,600,0,193
+1739642112946,928,HTTP Request,200,OK,Search Threads Group 1-121,text,true,,43906,133,25,25,https://open.spotify.com/search/Hello,416,0,213
+1739642113244,840,HTTP Request,200,OK,Search Threads Group 1-124,text,true,,44087,133,26,26,https://open.spotify.com/search/Hello,651,0,323
+1739642113443,642,HTTP Request,200,OK,Search Threads Group 1-126,text,true,,44184,133,26,26,https://open.spotify.com/search/Hello,641,0,278
+1739642113344,841,HTTP Request,200,OK,Search Threads Group 1-125,text,true,,26656,133,25,25,https://open.spotify.com/search/Hello,658,0,449
+1739642112543,1642,HTTP Request,200,OK,Search Threads Group 1-117,text,true,,43971,133,25,25,https://open.spotify.com/search/Hello,1489,0,1237
+1739642113746,447,HTTP Request,200,OK,Search Threads Group 1-129,text,true,,13851,133,23,23,https://open.spotify.com/search/Hello,443,0,247
+1739642113646,653,HTTP Request,200,OK,Search Threads Group 1-128,text,true,,57024,133,23,23,https://open.spotify.com/search/Hello,638,0,261
+1739642112847,1543,HTTP Request,200,OK,Search Threads Group 1-120,text,true,,13739,133,23,23,https://open.spotify.com/search/Hello,1543,0,1241
+1739642113544,847,HTTP Request,200,OK,Search Threads Group 1-127,text,true,,26552,133,23,23,https://open.spotify.com/search/Hello,477,0,250
+1739642113846,556,HTTP Request,200,OK,Search Threads Group 1-130,text,true,,26419,133,21,21,https://open.spotify.com/search/Hello,545,0,271
+1739642113946,568,HTTP Request,200,OK,Search Threads Group 1-131,text,true,,26364,133,21,21,https://open.spotify.com/search/Hello,543,0,270
+1739642111248,3294,HTTP Request,200,OK,Search Threads Group 1-104,text,true,,44242,133,20,20,https://open.spotify.com/search/Hello,681,0,174
+1739642114144,753,HTTP Request,200,OK,Search Threads Group 1-133,text,true,,44072,133,23,23,https://open.spotify.com/search/Hello,571,0,250
+1739642114745,471,HTTP Request,200,OK,Search Threads Group 1-139,text,true,,13617,133,25,25,https://open.spotify.com/search/Hello,471,0,263
+1739642114644,572,HTTP Request,200,OK,Search Threads Group 1-138,text,true,,44143,133,25,25,https://open.spotify.com/search/Hello,463,0,255
+1739642114943,325,HTTP Request,200,OK,Search Threads Group 1-141,text,true,,13561,133,24,24,https://open.spotify.com/search/Hello,322,0,171
+1739642114844,583,HTTP Request,200,OK,Search Threads Group 1-140,text,true,,43973,133,24,24,https://open.spotify.com/search/Hello,472,0,188
+1739642114044,1473,HTTP Request,200,OK,Search Threads Group 1-132,text,true,,43941,133,24,24,https://open.spotify.com/search/Hello,1383,0,1187
+1739642113144,2372,HTTP Request,200,OK,Search Threads Group 1-123,text,true,,57147,133,24,24,https://open.spotify.com/search/Hello,1679,0,1450
+1739642115141,434,HTTP Request,200,OK,Search Threads Group 1-143,text,true,,26422,133,23,23,https://open.spotify.com/search/Hello,415,0,194
+1739642115043,582,HTTP Request,200,OK,Search Threads Group 1-142,text,true,,56929,133,22,22,https://open.spotify.com/search/Hello,406,0,188
+1739642115342,415,HTTP Request,200,OK,Search Threads Group 1-145,text,true,,26543,133,23,23,https://open.spotify.com/search/Hello,404,0,181
+1739642114346,1478,HTTP Request,200,OK,Search Threads Group 1-135,text,true,,44185,133,22,22,https://open.spotify.com/search/Hello,1386,0,1178
+1739642114445,1480,HTTP Request,200,OK,Search Threads Group 1-136,text,true,,13564,133,22,22,https://open.spotify.com/search/Hello,1477,0,1280
+1739642115440,590,HTTP Request,200,OK,Search Threads Group 1-146,text,true,,43832,133,22,22,https://open.spotify.com/search/Hello,491,0,195
+1739642115640,390,HTTP Request,200,OK,Search Threads Group 1-148,text,true,,13616,133,22,22,https://open.spotify.com/search/Hello,390,0,234
+1739642114545,1518,HTTP Request,200,OK,Search Threads Group 1-137,text,true,,26363,133,21,21,https://open.spotify.com/search/Hello,1504,0,1281
+1739642115540,694,HTTP Request,200,OK,Search Threads Group 1-147,text,true,,26445,133,21,21,https://open.spotify.com/search/Hello,434,0,219
+1739642115241,994,HTTP Request,200,OK,Search Threads Group 1-144,text,true,,44148,133,21,21,https://open.spotify.com/search/Hello,993,0,189
+1739642115939,414,HTTP Request,200,OK,Search Threads Group 1-151,text,true,,26708,133,21,21,https://open.spotify.com/search/Hello,398,0,201
+1739642115839,708,HTTP Request,200,OK,Search Threads Group 1-150,text,true,,13506,133,22,22,https://open.spotify.com/search/Hello,708,0,205
+1739642116039,510,HTTP Request,200,OK,Search Threads Group 1-152,text,true,,44194,133,22,22,https://open.spotify.com/search/Hello,508,0,199
+1739642115740,907,HTTP Request,200,OK,Search Threads Group 1-149,text,true,,43896,133,21,21,https://open.spotify.com/search/Hello,752,0,206
+1739642116139,509,HTTP Request,200,OK,Search Threads Group 1-153,text,true,,43967,133,21,21,https://open.spotify.com/search/Hello,352,0,194
+1739642116538,362,HTTP Request,200,OK,Search Threads Group 1-157,text,true,,13508,133,21,21,https://open.spotify.com/search/Hello,356,0,215
+1739642114245,2657,HTTP Request,200,OK,Search Threads Group 1-134,text,true,,44159,133,20,20,https://open.spotify.com/search/Hello,1485,0,1193
+1739642116438,596,HTTP Request,200,OK,Search Threads Group 1-156,text,true,,26424,133,21,21,https://open.spotify.com/search/Hello,595,0,212
+1739642116240,819,HTTP Request,200,OK,Search Threads Group 1-154,text,true,,13690,133,20,20,https://open.spotify.com/search/Hello,819,0,217
+1739642116636,718,HTTP Request,200,OK,Search Threads Group 1-158,text,true,,44006,133,22,22,https://open.spotify.com/search/Hello,544,0,215
+1739642117035,478,HTTP Request,200,OK,Search Threads Group 1-162,text,true,,26697,133,22,22,https://open.spotify.com/search/Hello,455,0,227
+1739642117332,466,HTTP Request,200,OK,Search Threads Group 1-165,text,true,,26782,133,24,24,https://open.spotify.com/search/Hello,445,0,234
+1739642101694,16278,HTTP Request,200,OK,Search Threads Group 1-13,text,true,,57200,133,25,25,https://open.spotify.com/search/Hello,15670,0,15342
+1739642117629,385,HTTP Request,200,OK,Search Threads Group 1-168,text,true,,13442,133,24,24,https://open.spotify.com/search/Hello,385,0,241
+1739642117430,847,HTTP Request,200,OK,Search Threads Group 1-166,text,true,,44147,133,26,26,https://open.spotify.com/search/Hello,542,0,235
+1739642117928,368,HTTP Request,200,OK,Search Threads Group 1-171,text,true,,26423,133,25,25,https://open.spotify.com/search/Hello,354,0,164
+1739642116339,2042,HTTP Request,200,OK,Search Threads Group 1-155,text,true,,26623,133,25,25,https://open.spotify.com/search/Hello,440,0,231
+1739642118228,301,HTTP Request,200,OK,Search Threads Group 1-174,text,true,,13494,133,26,26,https://open.spotify.com/search/Hello,298,0,158
+1739642118028,561,HTTP Request,200,OK,Search Threads Group 1-172,text,true,,44272,133,25,25,https://open.spotify.com/search/Hello,404,0,150
+1739642117530,1063,HTTP Request,200,OK,Search Threads Group 1-167,text,true,,13748,133,24,24,https://open.spotify.com/search/Hello,1061,0,238
+1739642116934,1708,HTTP Request,200,OK,Search Threads Group 1-161,text,true,,26626,133,24,24,https://open.spotify.com/search/Hello,1658,0,1449
+1739642118128,562,HTTP Request,200,OK,Search Threads Group 1-173,text,true,,26247,133,23,23,https://open.spotify.com/search/Hello,417,0,154
+1739642118326,365,HTTP Request,200,OK,Search Threads Group 1-175,text,true,,26363,133,23,23,https://open.spotify.com/search/Hello,362,0,160
+1739642117233,1696,HTTP Request,200,OK,Search Threads Group 1-164,text,true,,57075,133,24,24,https://open.spotify.com/search/Hello,431,0,228
+1739642118625,311,HTTP Request,200,OK,Search Threads Group 1-178,text,true,,13336,133,23,23,https://open.spotify.com/search/Hello,305,0,166
+1739642117729,1477,HTTP Request,200,OK,Search Threads Group 1-169,text,true,,57002,133,24,24,https://open.spotify.com/search/Hello,1375,0,1175
+1739642117829,1577,HTTP Request,200,OK,Search Threads Group 1-170,text,true,,56734,133,25,25,https://open.spotify.com/search/Hello,1401,0,1172
+1739642118525,880,HTTP Request,200,OK,Search Threads Group 1-177,text,true,,44195,133,25,25,https://open.spotify.com/search/Hello,322,0,167
+1739642118725,785,HTTP Request,200,OK,Search Threads Group 1-179,text,true,,44320,133,24,24,https://open.spotify.com/search/Hello,680,0,178
+1739642118928,588,HTTP Request,200,OK,Search Threads Group 1-181,text,true,,44215,133,23,23,https://open.spotify.com/search/Hello,505,0,169
+1739642118829,776,HTTP Request,200,OK,Search Threads Group 1-180,text,true,,13631,133,23,23,https://open.spotify.com/search/Hello,575,0,171
+1739642119028,577,HTTP Request,200,OK,Search Threads Group 1-182,text,true,,56933,133,23,23,https://open.spotify.com/search/Hello,417,0,179
+1739642119427,412,HTTP Request,200,OK,Search Threads Group 1-186,text,true,,26422,133,24,24,https://open.spotify.com/search/Hello,387,0,194
+1739642119127,788,HTTP Request,200,OK,Search Threads Group 1-183,text,true,,44047,133,23,23,https://open.spotify.com/search/Hello,331,0,176
+1739642119527,397,HTTP Request,200,OK,Search Threads Group 1-187,text,true,,26412,133,22,22,https://open.spotify.com/search/Hello,388,0,189
+1739642119626,404,HTTP Request,200,OK,Search Threads Group 1-188,text,true,,26415,133,23,23,https://open.spotify.com/search/Hello,396,0,191
+1739642119328,805,HTTP Request,200,OK,Search Threads Group 1-185,text,true,,56817,133,23,23,https://open.spotify.com/search/Hello,794,0,190
+1739642119229,948,HTTP Request,200,OK,Search Threads Group 1-184,text,true,,44108,133,22,22,https://open.spotify.com/search/Hello,382,0,180
+1739642104835,15343,HTTP Request,200,OK,Search Threads Group 1-42,text,true,,13755,133,21,21,https://open.spotify.com/search/Hello,15340,0,15199
+1739642119727,496,HTTP Request,200,OK,Search Threads Group 1-189,text,true,,56939,133,21,21,https://open.spotify.com/search/Hello,408,0,191
+1739642119826,442,HTTP Request,200,OK,Search Threads Group 1-190,text,true,,26537,133,20,20,https://open.spotify.com/search/Hello,423,0,199
+1739642118427,1852,HTTP Request,200,OK,Search Threads Group 1-176,text,true,,57081,133,19,19,https://open.spotify.com/search/Hello,874,0,168
+1739642119927,603,HTTP Request,200,OK,Search Threads Group 1-191,text,true,,56891,133,21,21,https://open.spotify.com/search/Hello,513,0,202
+1739642120224,358,HTTP Request,200,OK,Search Threads Group 1-194,text,true,,13498,133,20,20,https://open.spotify.com/search/Hello,355,0,203
+1739642120323,475,HTTP Request,200,OK,Search Threads Group 1-195,text,true,,26593,133,21,21,https://open.spotify.com/search/Hello,453,0,208
+1739642120027,1012,HTTP Request,200,OK,Search Threads Group 1-192,text,true,,13502,133,23,23,https://open.spotify.com/search/Hello,361,0,197
+1739642120721,532,HTTP Request,200,OK,Search Threads Group 1-199,text,true,,26667,133,24,24,https://open.spotify.com/search/Hello,530,0,177
+1739642120821,545,HTTP Request,200,OK,Search Threads Group 1-200,text,true,,56874,133,24,24,https://open.spotify.com/search/Hello,531,0,152
+1739642121122,484,HTTP Request,200,OK,Search Threads Group 1-203,text,true,,26436,133,25,25,https://open.spotify.com/search/Hello,463,0,235
+1739642121020,641,HTTP Request,200,OK,Search Threads Group 1-202,text,true,,44232,133,25,25,https://open.spotify.com/search/Hello,640,0,237
+1739642121422,539,HTTP Request,200,OK,Search Threads Group 1-206,text,true,,13613,133,27,27,https://open.spotify.com/search/Hello,491,0,272
+1739642120126,1880,HTTP Request,200,OK,Search Threads Group 1-193,text,true,,57310,133,26,26,https://open.spotify.com/search/Hello,1671,0,1232
+1739642105485,16587,HTTP Request,200,OK,Search Threads Group 1-48,text,true,,13503,133,26,26,https://open.spotify.com/search/Hello,16584,0,16278
+1739642120422,1657,HTTP Request,200,OK,Search Threads Group 1-196,text,true,,13616,133,25,25,https://open.spotify.com/search/Hello,1650,0,1349
+1739642121324,845,HTTP Request,200,OK,Search Threads Group 1-205,text,true,,57142,133,25,25,https://open.spotify.com/search/Hello,569,0,281
+1739642121521,647,HTTP Request,200,OK,Search Threads Group 1-207,text,true,,44105,133,25,25,https://open.spotify.com/search/Hello,558,0,281
+1739642121818,565,HTTP Request,200,OK,Search Threads Group 1-210,text,true,,13613,133,25,25,https://open.spotify.com/search/Hello,565,0,258
+1739642122017,380,HTTP Request,200,OK,Search Threads Group 1-212,text,true,,13732,133,24,24,https://open.spotify.com/search/Hello,375,0,183
+1739642121918,565,HTTP Request,200,OK,Search Threads Group 1-211,text,true,,13498,133,24,24,https://open.spotify.com/search/Hello,565,0,277
+1739642122117,388,HTTP Request,200,OK,Search Threads Group 1-213,text,true,,26374,133,23,23,https://open.spotify.com/search/Hello,378,0,161
+1739642120524,2055,HTTP Request,200,OK,Search Threads Group 1-197,text,true,,13505,133,23,23,https://open.spotify.com/search/Hello,2055,0,1236
+1739642120920,1663,HTTP Request,200,OK,Search Threads Group 1-201,text,true,,57168,133,22,22,https://open.spotify.com/search/Hello,1491,0,1278
+1739642122219,400,HTTP Request,200,OK,Search Threads Group 1-214,text,true,,26374,133,22,22,https://open.spotify.com/search/Hello,373,0,181
+1739642107125,15511,HTTP Request,200,OK,Search Threads Group 1-63,text,true,,26482,133,21,21,https://open.spotify.com/search/Hello,15494,0,15261
+1739642121619,1067,HTTP Request,200,OK,Search Threads Group 1-208,text,true,,44208,133,20,20,https://open.spotify.com/search/Hello,880,0,348
+1739642122419,322,HTTP Request,200,OK,Search Threads Group 1-216,text,true,,13442,133,20,20,https://open.spotify.com/search/Hello,317,0,180
+1739642107011,15770,HTTP Request,200,OK,Search Threads Group 1-62,text,true,,44195,133,19,19,https://open.spotify.com/search/Hello,15607,0,15282
+1739642121719,1114,HTTP Request,200,OK,Search Threads Group 1-209,text,true,,13505,133,19,19,https://open.spotify.com/search/Hello,606,0,372
+1739642122516,327,HTTP Request,200,OK,Search Threads Group 1-217,text,true,,13619,133,18,18,https://open.spotify.com/search/Hello,325,0,173
+1739642121223,1666,HTTP Request,200,OK,Search Threads Group 1-204,text,true,,57288,133,17,17,https://open.spotify.com/search/Hello,1499,0,1280
+1739642122316,676,HTTP Request,200,OK,Search Threads Group 1-215,text,true,,57089,133,17,17,https://open.spotify.com/search/Hello,505,0,177
+1739642122716,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-219,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,279,0,190
+1739642122818,276,HTTP Request,429,Too Many Requests,Search Threads Group 1-220,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,275,0,178
+1739642122917,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-221,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,276,0,181
+1739642122616,685,HTTP Request,200,OK,Search Threads Group 1-218,text,true,,44127,133,16,16,https://open.spotify.com/search/Hello,480,0,185
+1739642123016,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-222,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,285,0,181
+1739642123117,305,HTTP Request,429,Too Many Requests,Search Threads Group 1-223,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,304,0,192
+1739642123218,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-224,text,false,,585,133,15,15,https://open.spotify.com/search/Hello,288,0,210
+1739642123318,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-225,text,false,,583,133,15,15,https://open.spotify.com/search/Hello,281,0,186
+1739642123514,322,HTTP Request,429,Too Many Requests,Search Threads Group 1-227,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,322,0,198
+1739642123617,306,HTTP Request,429,Too Many Requests,Search Threads Group 1-228,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,305,0,225
+1739642123718,294,HTTP Request,429,Too Many Requests,Search Threads Group 1-229,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,293,0,208
+1739642108653,15358,HTTP Request,429,Too Many Requests,Search Threads Group 1-78,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,15357,0,15265
+1739642123815,308,HTTP Request,429,Too Many Requests,Search Threads Group 1-230,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,307,0,203
+1739642123917,312,HTTP Request,429,Too Many Requests,Search Threads Group 1-231,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,311,0,205
+1739642124021,329,HTTP Request,429,Too Many Requests,Search Threads Group 1-232,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,329,0,210
+1739642124120,308,HTTP Request,429,Too Many Requests,Search Threads Group 1-233,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,307,0,229
+1739642109150,15324,HTTP Request,429,Too Many Requests,Search Threads Group 1-83,text,false,,583,133,15,15,https://open.spotify.com/search/Hello,15324,0,15249
+1739642124217,268,HTTP Request,429,Too Many Requests,Search Threads Group 1-234,text,false,,585,133,14,14,https://open.spotify.com/search/Hello,267,0,190
+1739642124318,314,HTTP Request,429,Too Many Requests,Search Threads Group 1-235,text,false,,583,133,15,15,https://open.spotify.com/search/Hello,314,0,176
+1739642109449,15279,HTTP Request,429,Too Many Requests,Search Threads Group 1-86,text,false,,583,133,15,15,https://open.spotify.com/search/Hello,15279,0,15179
+1739642109549,15484,HTTP Request,429,Too Many Requests,Search Threads Group 1-87,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,15484,0,15180
+1739642124516,519,HTTP Request,429,Too Many Requests,Search Threads Group 1-237,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,518,0,214
+1739642124714,627,HTTP Request,429,Too Many Requests,Search Threads Group 1-239,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,627,0,487
+1739642109750,15692,HTTP Request,429,Too Many Requests,Search Threads Group 1-89,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,15691,0,15451
+1739642124814,1599,HTTP Request,429,Too Many Requests,Search Threads Group 1-240,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,1598,0,1406
+1739642125113,1472,HTTP Request,429,Too Many Requests,Search Threads Group 1-243,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,1471,0,1365
+1739642126112,507,HTTP Request,429,Too Many Requests,Search Threads Group 1-253,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,506,0,393
+1739642125216,1407,HTTP Request,429,Too Many Requests,Search Threads Group 1-244,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,1407,0,1314
+1739642126212,468,HTTP Request,429,Too Many Requests,Search Threads Group 1-254,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,467,0,322
+1739642125313,1394,HTTP Request,429,Too Many Requests,Search Threads Group 1-245,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,1394,0,1277
+1739642125013,1704,HTTP Request,429,Too Many Requests,Search Threads Group 1-242,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1704,0,1595
+1739642125412,1409,HTTP Request,429,Too Many Requests,Search Threads Group 1-246,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1409,0,1268
+1739642125512,1373,HTTP Request,429,Too Many Requests,Search Threads Group 1-247,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1373,0,1192
+1739642126508,515,HTTP Request,429,Too Many Requests,Search Threads Group 1-257,text,false,,584,133,24,24,https://open.spotify.com/search/Hello,515,0,282
+1739642126609,484,HTTP Request,429,Too Many Requests,Search Threads Group 1-258,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,484,0,296
+1739642125613,1480,HTTP Request,429,Too Many Requests,Search Threads Group 1-248,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1480,0,1292
+1739642126707,483,HTTP Request,429,Too Many Requests,Search Threads Group 1-259,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,482,0,383
+1739642125712,1478,HTTP Request,429,Too Many Requests,Search Threads Group 1-249,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,1478,0,1382
+1739642126907,388,HTTP Request,429,Too Many Requests,Search Threads Group 1-261,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,388,0,284
+1739642125812,1495,HTTP Request,429,Too Many Requests,Search Threads Group 1-250,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,1494,0,1376
+1739642127006,393,HTTP Request,429,Too Many Requests,Search Threads Group 1-262,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,393,0,285
+1739642127105,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-263,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,299,0,209
+1739642126013,1395,HTTP Request,429,Too Many Requests,Search Threads Group 1-252,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,1395,0,1300
+1739642127205,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-264,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,289,0,201
+1739642127303,319,HTTP Request,429,Too Many Requests,Search Threads Group 1-265,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,317,0,192
+1739642127406,295,HTTP Request,429,Too Many Requests,Search Threads Group 1-266,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,294,0,200
+1739642127604,299,HTTP Request,429,Too Many Requests,Search Threads Group 1-268,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,298,0,200
+1739642126311,1601,HTTP Request,429,Too Many Requests,Search Threads Group 1-255,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,1601,0,370
+1739642127705,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-269,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,299,0,202
+1739642125912,2112,HTTP Request,429,Too Many Requests,Search Threads Group 1-251,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,2111,0,489
+1739642126409,1903,HTTP Request,429,Too Many Requests,Search Threads Group 1-256,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,1902,0,271
+1739642126807,1547,HTTP Request,429,Too Many Requests,Search Threads Group 1-260,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,1546,0,1423
+1739642128005,352,HTTP Request,429,Too Many Requests,Search Threads Group 1-272,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,351,0,231
+1739642128104,334,HTTP Request,429,Too Many Requests,Search Threads Group 1-273,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,333,0,253
+1739642113046,15483,HTTP Request,429,Too Many Requests,Search Threads Group 1-122,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,15483,0,15372
+1739642128204,413,HTTP Request,429,Too Many Requests,Search Threads Group 1-274,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,413,0,258
+1739642128402,351,HTTP Request,429,Too Many Requests,Search Threads Group 1-276,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,350,0,273
+1739642128502,335,HTTP Request,429,Too Many Requests,Search Threads Group 1-277,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,334,0,231
+1739642128600,325,HTTP Request,429,Too Many Requests,Search Threads Group 1-278,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,325,0,225
+1739642112745,16387,HTTP Request,429,Too Many Requests,Search Threads Group 1-119,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,16387,0,16290
+1739642128998,338,HTTP Request,429,Too Many Requests,Search Threads Group 1-282,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,338,0,238
+1739642128303,1049,HTTP Request,429,Too Many Requests,Search Threads Group 1-275,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,1048,0,275
+1739642129298,245,HTTP Request,429,Too Many Requests,Search Threads Group 1-285,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,243,0,162
+1739642129498,249,HTTP Request,429,Too Many Requests,Search Threads Group 1-287,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,248,0,152
+1739642129600,249,HTTP Request,429,Too Many Requests,Search Threads Group 1-288,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,249,0,155
+1739642129698,252,HTTP Request,429,Too Many Requests,Search Threads Group 1-289,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,251,0,152
+1739642129798,253,HTTP Request,429,Too Many Requests,Search Threads Group 1-290,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,253,0,154
+1739642128801,1251,HTTP Request,429,Too Many Requests,Search Threads Group 1-280,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,1250,0,1157
+1739642129898,260,HTTP Request,429,Too Many Requests,Search Threads Group 1-291,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,259,0,158
+1739642128898,1374,HTTP Request,429,Too Many Requests,Search Threads Group 1-281,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,1373,0,1260
+1739642129997,321,HTTP Request,429,Too Many Requests,Search Threads Group 1-292,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,321,0,187
+1739642129098,1263,HTTP Request,429,Too Many Requests,Search Threads Group 1-283,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,1262,0,1187
+1739642130097,291,HTTP Request,429,Too Many Requests,Search Threads Group 1-293,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,291,0,218
+1739642129198,1265,HTTP Request,429,Too Many Requests,Search Threads Group 1-284,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,1264,0,1162
+1739642130197,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-294,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,285,0,207
+1739642130296,267,HTTP Request,429,Too Many Requests,Search Threads Group 1-295,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,266,0,170
+1739642129398,1273,HTTP Request,429,Too Many Requests,Search Threads Group 1-286,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,1273,0,1187
+1739642130395,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-296,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,276,0,169
+1739642130496,272,HTTP Request,429,Too Many Requests,Search Threads Group 1-297,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,272,0,178
+1739642130594,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-298,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,277,0,176
+1739642130695,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-299,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,281,0,177
+1739642130794,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-300,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,288,0,185
+1739642130892,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-301,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,289,0,195
+1739642130993,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-302,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,286,0,191
+1739642131094,291,HTTP Request,429,Too Many Requests,Search Threads Group 1-303,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,290,0,187
+1739642131192,297,HTTP Request,429,Too Many Requests,Search Threads Group 1-304,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,296,0,196
+1739642131293,307,HTTP Request,429,Too Many Requests,Search Threads Group 1-305,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,306,0,199
+1739642131395,295,HTTP Request,429,Too Many Requests,Search Threads Group 1-306,text,false,,585,133,16,16,https://open.spotify.com/search/Hello,294,0,206
+1739642131508,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-307,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,286,0,184
+1739642131700,298,HTTP Request,429,Too Many Requests,Search Threads Group 1-309,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,298,0,197
+1739642131799,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-310,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,302,0,202
+1739642117134,15309,HTTP Request,429,Too Many Requests,Search Threads Group 1-163,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,15308,0,15179
+1739642116835,16393,HTTP Request,429,Too Many Requests,Search Threads Group 1-160,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,16392,0,16296
+1739642127904,5425,HTTP Request,429,Too Many Requests,Search Threads Group 1-271,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,5424,0,5324
+1739642131997,1331,HTTP Request,429,Too Many Requests,Search Threads Group 1-312,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,1330,0,1230
+1739642132992,336,HTTP Request,429,Too Many Requests,Search Threads Group 1-322,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,335,0,235
+1739642132097,1259,HTTP Request,429,Too Many Requests,Search Threads Group 1-313,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1259,0,1165
+1739642133289,247,HTTP Request,429,Too Many Requests,Search Threads Group 1-325,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,246,0,155
+1739642132295,1343,HTTP Request,429,Too Many Requests,Search Threads Group 1-315,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,1343,0,1243
+1739642133388,257,HTTP Request,429,Too Many Requests,Search Threads Group 1-326,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,256,0,155
+1739642112643,21057,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-118,text,false,,2954,0,24,24,https://open.spotify.com/search/Hello,0,0,21057
+1739642133489,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-327,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,301,0,195
+1739642133589,284,HTTP Request,429,Too Many Requests,Search Threads Group 1-328,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,284,0,208
+1739642133688,270,HTTP Request,429,Too Many Requests,Search Threads Group 1-329,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,270,0,191
+1739642132793,1255,HTTP Request,429,Too Many Requests,Search Threads Group 1-320,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1254,0,1157
+1739642133788,260,HTTP Request,429,Too Many Requests,Search Threads Group 1-330,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,259,0,162
+1739642133888,261,HTTP Request,429,Too Many Requests,Search Threads Group 1-331,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,260,0,163
+1739642133986,264,HTTP Request,429,Too Many Requests,Search Threads Group 1-332,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,263,0,165
+1739642133090,1263,HTTP Request,429,Too Many Requests,Search Threads Group 1-323,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,1263,0,1175
+1739642134086,267,HTTP Request,429,Too Many Requests,Search Threads Group 1-333,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,267,0,181
+1739642133189,1266,HTTP Request,429,Too Many Requests,Search Threads Group 1-324,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,1265,0,1165
+1739642134186,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-334,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,268,0,168
+1739642134286,271,HTTP Request,429,Too Many Requests,Search Threads Group 1-335,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,271,0,171
+1739642134388,273,HTTP Request,429,Too Many Requests,Search Threads Group 1-336,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,273,0,174
+1739642134486,278,HTTP Request,429,Too Many Requests,Search Threads Group 1-337,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,277,0,193
+1739642134586,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-338,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,280,0,180
+1739642134685,290,HTTP Request,429,Too Many Requests,Search Threads Group 1-339,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,289,0,185
+1739642134784,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-340,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,285,0,192
+1739642134884,288,HTTP Request,429,Too Many Requests,Search Threads Group 1-341,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,287,0,187
+1739642134983,291,HTTP Request,429,Too Many Requests,Search Threads Group 1-342,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,290,0,191
+1739642135083,293,HTTP Request,429,Too Many Requests,Search Threads Group 1-343,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,293,0,193
+1739642135184,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-344,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,301,0,194
+1739642135284,312,HTTP Request,429,Too Many Requests,Search Threads Group 1-345,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,311,0,204
+1739642135383,345,HTTP Request,429,Too Many Requests,Search Threads Group 1-346,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,345,0,215
+1739642135482,412,HTTP Request,429,Too Many Requests,Search Threads Group 1-347,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,411,0,263
+1739642135583,368,HTTP Request,429,Too Many Requests,Search Threads Group 1-348,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,368,0,254
+1739642120622,15476,HTTP Request,429,Too Many Requests,Search Threads Group 1-198,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,15475,0,15296
+1739642135682,474,HTTP Request,429,Too Many Requests,Search Threads Group 1-349,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,473,0,233
+1739642135782,413,HTTP Request,429,Too Many Requests,Search Threads Group 1-350,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,412,0,317
+1739642135882,422,HTTP Request,429,Too Many Requests,Search Threads Group 1-351,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,421,0,277
+1739642135981,428,HTTP Request,429,Too Many Requests,Search Threads Group 1-352,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,428,0,325
+1739642136081,357,HTTP Request,429,Too Many Requests,Search Threads Group 1-353,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,356,0,248
+1739642136181,376,HTTP Request,429,Too Many Requests,Search Threads Group 1-354,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,376,0,231
+1739642136283,427,HTTP Request,429,Too Many Requests,Search Threads Group 1-355,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,427,0,271
+1739642136380,384,HTTP Request,429,Too Many Requests,Search Threads Group 1-356,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,383,0,280
+1739642136580,339,HTTP Request,429,Too Many Requests,Search Threads Group 1-358,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,338,0,258
+1739642136681,359,HTTP Request,429,Too Many Requests,Search Threads Group 1-359,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,358,0,244
+1739642136778,390,HTTP Request,429,Too Many Requests,Search Threads Group 1-360,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,389,0,257
+1739642136878,370,HTTP Request,429,Too Many Requests,Search Threads Group 1-361,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,369,0,295
+1739642136980,356,HTTP Request,429,Too Many Requests,Search Threads Group 1-362,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,356,0,247
+1739642131898,5440,HTTP Request,429,Too Many Requests,Search Threads Group 1-311,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,5439,0,5349
+1739642137079,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-363,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,287,0,177
+1739642137379,355,HTTP Request,429,Too Many Requests,Search Threads Group 1-366,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,354,0,233
+1739642116736,21041,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-159,text,false,,2954,0,21,21,https://open.spotify.com/search/Hello,0,0,21041
+1739642137579,274,HTTP Request,429,Too Many Requests,Search Threads Group 1-368,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,274,0,160
+1739642137479,374,HTTP Request,429,Too Many Requests,Search Threads Group 1-367,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,373,0,256
+1739642137679,301,HTTP Request,429,Too Many Requests,Search Threads Group 1-369,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,300,0,182
+1739642137779,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-370,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,279,0,205
+1739642137878,272,HTTP Request,429,Too Many Requests,Search Threads Group 1-371,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,271,0,181
+1739642137979,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-372,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,299,0,195
+1739642138076,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-373,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,301,0,213
+1739642137189,1260,HTTP Request,429,Too Many Requests,Search Threads Group 1-364,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,1259,0,1170
+1739642138176,283,HTTP Request,429,Too Many Requests,Search Threads Group 1-374,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,282,0,188
+1739642137279,1276,HTTP Request,429,Too Many Requests,Search Threads Group 1-365,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,1276,0,1177
+1739642138278,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-375,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,279,0,173
+1739642138375,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-376,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,280,0,191
+1739642138476,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-377,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,280,0,181
+1739642123416,15451,HTTP Request,429,Too Many Requests,Search Threads Group 1-226,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,15450,0,15241
+1739642138576,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-378,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,302,0,194
+1739642138676,283,HTTP Request,429,Too Many Requests,Search Threads Group 1-379,text,false,,585,133,17,17,https://open.spotify.com/search/Hello,283,0,187
+1739642138774,294,HTTP Request,429,Too Many Requests,Search Threads Group 1-380,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,293,0,190
+1739642138873,294,HTTP Request,429,Too Many Requests,Search Threads Group 1-381,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,294,0,198
+1739642138974,293,HTTP Request,429,Too Many Requests,Search Threads Group 1-382,text,false,,583,133,17,17,https://open.spotify.com/search/Hello,293,0,194
+1739642139075,315,HTTP Request,429,Too Many Requests,Search Threads Group 1-383,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,314,0,193
+1739642139175,297,HTTP Request,429,Too Many Requests,Search Threads Group 1-384,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,297,0,216
+1739642139273,411,HTTP Request,429,Too Many Requests,Search Threads Group 1-385,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,410,0,311
+1739642124416,15369,HTTP Request,429,Too Many Requests,Search Threads Group 1-236,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,15369,0,15272
+1739642136479,3845,HTTP Request,429,Too Many Requests,Search Threads Group 1-357,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,3844,0,287
+1739642124914,15421,HTTP Request,429,Too Many Requests,Search Threads Group 1-241,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,15420,0,15302
+1739642140070,325,HTTP Request,429,Too Many Requests,Search Threads Group 1-393,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,324,0,230
+1739642140272,437,HTTP Request,429,Too Many Requests,Search Threads Group 1-395,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,436,0,283
+1739642139572,1248,HTTP Request,429,Too Many Requests,Search Threads Group 1-388,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1247,0,1169
+1739642140471,381,HTTP Request,429,Too Many Requests,Search Threads Group 1-397,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,381,0,272
+1739642140570,386,HTTP Request,429,Too Many Requests,Search Threads Group 1-398,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,386,0,280
+1739642140669,354,HTTP Request,429,Too Many Requests,Search Threads Group 1-399,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,353,0,258
+1739642140769,350,HTTP Request,429,Too Many Requests,Search Threads Group 1-400,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,349,0,250
+1739642139671,1544,HTTP Request,429,Too Many Requests,Search Threads Group 1-389,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1543,0,1444
+1739642140970,399,HTTP Request,429,Too Many Requests,Search Threads Group 1-402,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,399,0,253
+1739642141171,262,HTTP Request,429,Too Many Requests,Search Threads Group 1-404,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,258,0,175
+1739642140171,1358,HTTP Request,429,Too Many Requests,Search Threads Group 1-394,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1357,0,1260
+1739642141270,315,HTTP Request,429,Too Many Requests,Search Threads Group 1-405,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,314,0,158
+1739642141369,256,HTTP Request,429,Too Many Requests,Search Threads Group 1-406,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,254,0,171
+1739642141469,274,HTTP Request,429,Too Many Requests,Search Threads Group 1-407,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,273,0,185
+1739642141570,263,HTTP Request,429,Too Many Requests,Search Threads Group 1-408,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,262,0,179
+1739642141671,265,HTTP Request,429,Too Many Requests,Search Threads Group 1-409,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,264,0,166
+1739642141768,267,HTTP Request,429,Too Many Requests,Search Threads Group 1-410,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,267,0,187
+1739642141868,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-411,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,268,0,186
+1739642140868,1285,HTTP Request,429,Too Many Requests,Search Threads Group 1-401,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,1284,0,1198
+1739642141971,273,HTTP Request,429,Too Many Requests,Search Threads Group 1-412,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,272,0,171
+1739642141071,1272,HTTP Request,429,Too Many Requests,Search Threads Group 1-403,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,1271,0,1174
+1739642142067,276,HTTP Request,429,Too Many Requests,Search Threads Group 1-413,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,276,0,182
+1739642142166,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-414,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,281,0,179
+1739642142267,284,HTTP Request,429,Too Many Requests,Search Threads Group 1-415,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,283,0,183
+1739642142368,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-416,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,280,0,184
+1739642142466,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-417,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,285,0,200
+1739642140370,2437,HTTP Request,429,Too Many Requests,Search Threads Group 1-396,text,false,,584,133,20,20,https://open.spotify.com/search/Hello,2436,0,2280
+1739642142565,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-418,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,285,0,188
+1739642127504,15348,HTTP Request,429,Too Many Requests,Search Threads Group 1-267,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,15347,0,15250
+1739642142666,292,HTTP Request,429,Too Many Requests,Search Threads Group 1-419,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,291,0,187
+1739642142766,292,HTTP Request,429,Too Many Requests,Search Threads Group 1-420,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,291,0,194
+1739642142866,297,HTTP Request,429,Too Many Requests,Search Threads Group 1-421,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,296,0,192
+1739642127806,15358,HTTP Request,429,Too Many Requests,Search Threads Group 1-270,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,15357,0,15253
+1739642142964,299,HTTP Request,429,Too Many Requests,Search Threads Group 1-422,text,false,,585,133,17,17,https://open.spotify.com/search/Hello,298,0,202
+1739642143062,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-423,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,302,0,205
+1739642143165,306,HTTP Request,429,Too Many Requests,Search Threads Group 1-424,text,false,,585,133,18,18,https://open.spotify.com/search/Hello,304,0,201
+1739642143265,303,HTTP Request,429,Too Many Requests,Search Threads Group 1-425,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,302,0,209
+1739642143465,312,HTTP Request,429,Too Many Requests,Search Threads Group 1-427,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,311,0,207
+1739642128699,15365,HTTP Request,429,Too Many Requests,Search Threads Group 1-279,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,15364,0,15198
+1739642144063,431,HTTP Request,429,Too Many Requests,Search Threads Group 1-433,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,431,0,337
+1739642144959,249,HTTP Request,429,Too Many Requests,Search Threads Group 1-442,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,248,0,164
+1739642145060,256,HTTP Request,429,Too Many Requests,Search Threads Group 1-443,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,255,0,164
+1739642145163,258,HTTP Request,429,Too Many Requests,Search Threads Group 1-444,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,257,0,158
+1739642144261,1259,HTTP Request,429,Too Many Requests,Search Threads Group 1-435,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1258,0,1168
+1739642145364,266,HTTP Request,429,Too Many Requests,Search Threads Group 1-446,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,265,0,158
+1739642145262,368,HTTP Request,429,Too Many Requests,Search Threads Group 1-445,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,367,0,157
+1739642124616,21041,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-238,text,false,,2954,0,28,28,https://open.spotify.com/search/Hello,0,0,21041
+1739642145461,261,HTTP Request,429,Too Many Requests,Search Threads Group 1-447,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,260,0,163
+1739642144462,1260,HTTP Request,429,Too Many Requests,Search Threads Group 1-437,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,1259,0,1170
+1739642145561,261,HTTP Request,429,Too Many Requests,Search Threads Group 1-448,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,260,0,163
+1739642144563,1259,HTTP Request,429,Too Many Requests,Search Threads Group 1-438,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,1258,0,1173
+1739642145660,267,HTTP Request,429,Too Many Requests,Search Threads Group 1-449,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,266,0,164
+1739642144662,1265,HTTP Request,429,Too Many Requests,Search Threads Group 1-439,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,1264,0,1165
+1739642145760,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-450,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,268,0,169
+1739642144760,1269,HTTP Request,429,Too Many Requests,Search Threads Group 1-440,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,1269,0,1169
+1739642145861,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-451,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,268,0,180
+1739642144862,1268,HTTP Request,429,Too Many Requests,Search Threads Group 1-441,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1267,0,1176
+1739642145959,275,HTTP Request,429,Too Many Requests,Search Threads Group 1-452,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,274,0,173
+1739642146059,276,HTTP Request,429,Too Many Requests,Search Threads Group 1-453,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,276,0,177
+1739642146158,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-454,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,281,0,179
+1739642146257,283,HTTP Request,429,Too Many Requests,Search Threads Group 1-455,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,283,0,184
+1739642146356,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-456,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,289,0,187
+1739642146457,288,HTTP Request,429,Too Many Requests,Search Threads Group 1-457,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,288,0,189
+1739642146555,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-458,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,299,0,192
+1739642146654,383,HTTP Request,429,Too Many Requests,Search Threads Group 1-459,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,381,0,201
+1739642146754,484,HTTP Request,429,Too Many Requests,Search Threads Group 1-460,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,483,0,285
+1739642146855,506,HTTP Request,429,Too Many Requests,Search Threads Group 1-461,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,505,0,385
+1739642147055,414,HTTP Request,429,Too Many Requests,Search Threads Group 1-463,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,412,0,307
+1739642132494,15276,HTTP Request,429,Too Many Requests,Search Threads Group 1-317,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,15276,0,15178
+1739642132593,15285,HTTP Request,429,Too Many Requests,Search Threads Group 1-318,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,15284,0,15193
+1739642147655,322,HTTP Request,429,Too Many Requests,Search Threads Group 1-469,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,322,0,219
+1739642132693,15283,HTTP Request,429,Too Many Requests,Search Threads Group 1-319,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,15283,0,15186
+1739642147755,323,HTTP Request,429,Too Many Requests,Search Threads Group 1-470,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,322,0,224
+1739642147953,329,HTTP Request,429,Too Many Requests,Search Threads Group 1-472,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,328,0,229
+1739642132892,15388,HTTP Request,429,Too Many Requests,Search Threads Group 1-321,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,15388,0,15289
+1739642147355,1254,HTTP Request,429,Too Many Requests,Search Threads Group 1-466,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,1253,0,1166
+1739642132395,16432,HTTP Request,429,Too Many Requests,Search Threads Group 1-316,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,16431,0,16310
+1739642147457,1455,HTTP Request,429,Too Many Requests,Search Threads Group 1-467,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1455,0,1290
+1739642148650,355,HTTP Request,429,Too Many Requests,Search Threads Group 1-479,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,354,0,247
+1739642148749,262,HTTP Request,429,Too Many Requests,Search Threads Group 1-480,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,262,0,173
+1739642147554,1484,HTTP Request,429,Too Many Requests,Search Threads Group 1-468,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,1483,0,1341
+1739642148851,273,HTTP Request,429,Too Many Requests,Search Threads Group 1-481,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,272,0,165
+1739642148949,257,HTTP Request,429,Too Many Requests,Search Threads Group 1-482,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,256,0,179
+1739642149048,274,HTTP Request,429,Too Many Requests,Search Threads Group 1-483,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,274,0,187
+1739642148152,1256,HTTP Request,429,Too Many Requests,Search Threads Group 1-474,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,1256,0,1154
+1739642149148,259,HTTP Request,429,Too Many Requests,Search Threads Group 1-484,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,259,0,156
+1739642149248,259,HTTP Request,429,Too Many Requests,Search Threads Group 1-485,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,258,0,160
+1739642148251,1257,HTTP Request,429,Too Many Requests,Search Threads Group 1-475,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,1256,0,1166
+1739642148350,1265,HTTP Request,429,Too Many Requests,Search Threads Group 1-476,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,1265,0,1169
+1739642149347,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-486,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,277,0,170
+1739642144162,5467,HTTP Request,429,Too Many Requests,Search Threads Group 1-434,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,5466,0,5346
+1739642148449,1263,HTTP Request,429,Too Many Requests,Search Threads Group 1-477,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,1263,0,1171
+1739642149447,271,HTTP Request,429,Too Many Requests,Search Threads Group 1-487,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,271,0,183
+1739642148550,1267,HTTP Request,429,Too Many Requests,Search Threads Group 1-478,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1266,0,1164
+1739642149547,270,HTTP Request,429,Too Many Requests,Search Threads Group 1-488,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,269,0,177
+1739642149647,274,HTTP Request,429,Too Many Requests,Search Threads Group 1-489,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,274,0,172
+1739642149746,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-490,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,280,0,176
+1739642149847,363,HTTP Request,429,Too Many Requests,Search Threads Group 1-491,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,363,0,279
+1739642149945,484,HTTP Request,429,Too Many Requests,Search Threads Group 1-492,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,483,0,385
+1739642150144,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-494,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,284,0,187
+1739642150244,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-495,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,302,0,187
+1739642150343,295,HTTP Request,429,Too Many Requests,Search Threads Group 1-496,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,294,0,210
+1739642150442,297,HTTP Request,429,Too Many Requests,Search Threads Group 1-497,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,296,0,199
+1739642150045,705,HTTP Request,429,Too Many Requests,Search Threads Group 1-493,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,705,0,168
+1739642150643,306,HTTP Request,429,Too Many Requests,Search Threads Group 1-499,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,305,0,199
+1739642150740,312,HTTP Request,429,Too Many Requests,Search Threads Group 1-500,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,311,0,210
+1739642150840,329,HTTP Request,429,Too Many Requests,Search Threads Group 1-501,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,328,0,208
+1739642151140,316,HTTP Request,429,Too Many Requests,Search Threads Group 1-504,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,316,0,225
+1739642151240,331,HTTP Request,429,Too Many Requests,Search Threads Group 1-505,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,331,0,217
+1739642151340,328,HTTP Request,429,Too Many Requests,Search Threads Group 1-506,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,328,0,235
+1739642151040,1451,HTTP Request,429,Too Many Requests,Search Threads Group 1-503,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,1451,0,1354
+1739642131597,21029,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-308,text,false,,2954,0,33,33,https://open.spotify.com/search/Hello,0,0,21029
+1739642151541,1344,HTTP Request,429,Too Many Requests,Search Threads Group 1-508,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,1344,0,1246
+1739642152637,248,HTTP Request,429,Too Many Requests,Search Threads Group 1-519,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,248,0,161
+1739642152538,347,HTTP Request,429,Too Many Requests,Search Threads Group 1-518,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,347,0,252
+1739642152737,251,HTTP Request,429,Too Many Requests,Search Threads Group 1-520,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,251,0,161
+1739642152836,262,HTTP Request,429,Too Many Requests,Search Threads Group 1-521,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,262,0,156
+1739642151945,1279,HTTP Request,429,Too Many Requests,Search Threads Group 1-512,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,1279,0,1181
+1739642152935,304,HTTP Request,429,Too Many Requests,Search Threads Group 1-522,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,304,0,192
+1739642132197,21044,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-314,text,false,,2954,0,32,32,https://open.spotify.com/search/Hello,0,0,21044
+1739642153035,268,HTTP Request,429,Too Many Requests,Search Threads Group 1-523,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,267,0,183
+1739642152040,1274,HTTP Request,429,Too Many Requests,Search Threads Group 1-513,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1274,0,1186
+1739642152142,1268,HTTP Request,429,Too Many Requests,Search Threads Group 1-514,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1268,0,1181
+1739642153134,278,HTTP Request,429,Too Many Requests,Search Threads Group 1-524,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,278,0,189
+1739642153234,268,HTTP Request,429,Too Many Requests,Search Threads Group 1-525,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,267,0,176
+1739642152240,1294,HTTP Request,429,Too Many Requests,Search Threads Group 1-515,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,1294,0,1211
+1739642153334,270,HTTP Request,429,Too Many Requests,Search Threads Group 1-526,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,269,0,171
+1739642152340,1266,HTTP Request,429,Too Many Requests,Search Threads Group 1-516,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,1265,0,1192
+1739642152439,1270,HTTP Request,429,Too Many Requests,Search Threads Group 1-517,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,1269,0,1167
+1739642153434,275,HTTP Request,429,Too Many Requests,Search Threads Group 1-527,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,274,0,172
+1739642153533,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-528,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,280,0,178
+1739642153632,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-529,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,281,0,182
+1739642153733,290,HTTP Request,429,Too Many Requests,Search Threads Group 1-530,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,289,0,182
+1739642153833,323,HTTP Request,429,Too Many Requests,Search Threads Group 1-531,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,323,0,202
+1739642153933,337,HTTP Request,429,Too Many Requests,Search Threads Group 1-532,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,336,0,225
+1739642154033,292,HTTP Request,429,Too Many Requests,Search Threads Group 1-533,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,291,0,188
+1739642154130,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-534,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,302,0,197
+1739642154230,297,HTTP Request,429,Too Many Requests,Search Threads Group 1-535,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,296,0,204
+1739642154429,307,HTTP Request,429,Too Many Requests,Search Threads Group 1-537,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,307,0,205
+1739642139372,15398,HTTP Request,429,Too Many Requests,Search Threads Group 1-386,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,15398,0,15271
+1739642154730,308,HTTP Request,429,Too Many Requests,Search Threads Group 1-540,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,307,0,209
+1739642139770,15268,HTTP Request,429,Too Many Requests,Search Threads Group 1-390,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,15267,0,15170
+1739642139871,15265,HTTP Request,429,Too Many Requests,Search Threads Group 1-391,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,15264,0,15186
+1739642155029,317,HTTP Request,429,Too Many Requests,Search Threads Group 1-543,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,317,0,219
+1739642154531,864,HTTP Request,429,Too Many Requests,Search Threads Group 1-538,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,864,0,203
+1739642139971,15478,HTTP Request,429,Too Many Requests,Search Threads Group 1-392,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,15477,0,15386
+1739642155129,321,HTTP Request,429,Too Many Requests,Search Threads Group 1-544,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,320,0,220
+1739642155229,328,HTTP Request,429,Too Many Requests,Search Threads Group 1-545,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,327,0,223
+1739642156225,246,HTTP Request,429,Too Many Requests,Search Threads Group 1-555,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,245,0,168
+1739642156324,278,HTTP Request,429,Too Many Requests,Search Threads Group 1-556,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,277,0,174
+1739642156426,278,HTTP Request,429,Too Many Requests,Search Threads Group 1-557,text,false,,585,133,35,35,https://open.spotify.com/search/Hello,277,0,200
+1739642156523,256,HTTP Request,429,Too Many Requests,Search Threads Group 1-558,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,256,0,176
+1739642156623,260,HTTP Request,429,Too Many Requests,Search Threads Group 1-559,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,259,0,155
+1739642155727,1258,HTTP Request,429,Too Many Requests,Search Threads Group 1-550,text,false,,585,133,35,35,https://open.spotify.com/search/Hello,1257,0,1164
+1739642155628,1360,HTTP Request,429,Too Many Requests,Search Threads Group 1-549,text,false,,583,133,34,34,https://open.spotify.com/search/Hello,1359,0,1153
+1739642156724,265,HTTP Request,429,Too Many Requests,Search Threads Group 1-560,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,264,0,165
+1739642155828,1259,HTTP Request,429,Too Many Requests,Search Threads Group 1-551,text,false,,585,133,33,33,https://open.spotify.com/search/Hello,1259,0,1165
+1739642156824,263,HTTP Request,429,Too Many Requests,Search Threads Group 1-561,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,263,0,176
+1739642155926,1267,HTTP Request,429,Too Many Requests,Search Threads Group 1-552,text,false,,585,133,32,32,https://open.spotify.com/search/Hello,1266,0,1169
+1739642156922,271,HTTP Request,429,Too Many Requests,Search Threads Group 1-562,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,270,0,166
+1739642157022,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-563,text,false,,585,133,31,31,https://open.spotify.com/search/Hello,269,0,173
+1739642156026,1265,HTTP Request,429,Too Many Requests,Search Threads Group 1-553,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,1265,0,1170
+1739642156126,1268,HTTP Request,429,Too Many Requests,Search Threads Group 1-554,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1268,0,1166
+1739642157121,273,HTTP Request,429,Too Many Requests,Search Threads Group 1-564,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,273,0,171
+1739642157222,275,HTTP Request,429,Too Many Requests,Search Threads Group 1-565,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,275,0,174
+1739642157321,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-566,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,281,0,177
+1739642157421,279,HTTP Request,429,Too Many Requests,Search Threads Group 1-567,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,279,0,184
+1739642157521,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-568,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,285,0,181
+1739642157620,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-569,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,286,0,188
+1739642157720,288,HTTP Request,429,Too Many Requests,Search Threads Group 1-570,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,287,0,187
+1739642157820,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-571,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,299,0,189
+1739642157919,306,HTTP Request,429,Too Many Requests,Search Threads Group 1-572,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,305,0,195
+1739642158020,295,HTTP Request,429,Too Many Requests,Search Threads Group 1-573,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,294,0,212
+1739642158120,295,HTTP Request,429,Too Many Requests,Search Threads Group 1-574,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,295,0,197
+1739642158218,301,HTTP Request,429,Too Many Requests,Search Threads Group 1-575,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,300,0,198
+1739642158318,310,HTTP Request,429,Too Many Requests,Search Threads Group 1-576,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,309,0,201
+1739642158418,317,HTTP Request,429,Too Many Requests,Search Threads Group 1-577,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,317,0,221
+1739642158518,308,HTTP Request,429,Too Many Requests,Search Threads Group 1-578,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,308,0,218
+1739642158617,397,HTTP Request,429,Too Many Requests,Search Threads Group 1-579,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,396,0,211
+1739642143564,15451,HTTP Request,429,Too Many Requests,Search Threads Group 1-428,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,15450,0,15265
+1739642158718,418,HTTP Request,429,Too Many Requests,Search Threads Group 1-580,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,417,0,298
+1739642158820,604,HTTP Request,429,Too Many Requests,Search Threads Group 1-581,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,603,0,317
+1739642159027,701,HTTP Request,429,Too Many Requests,Search Threads Group 1-583,text,false,,583,133,34,34,https://open.spotify.com/search/Hello,701,0,398
+1739642159219,841,HTTP Request,429,Too Many Requests,Search Threads Group 1-585,text,false,,583,133,36,36,https://open.spotify.com/search/Hello,840,0,511
+1739642159319,741,HTTP Request,429,Too Many Requests,Search Threads Group 1-586,text,false,,583,133,36,36,https://open.spotify.com/search/Hello,740,0,411
+1739642143362,17013,HTTP Request,429,Too Many Requests,Search Threads Group 1-426,text,false,,583,133,37,37,https://open.spotify.com/search/Hello,17012,0,16699
+1739642143764,16724,HTTP Request,429,Too Many Requests,Search Threads Group 1-430,text,false,,585,133,37,37,https://open.spotify.com/search/Hello,16723,0,16612
+1739642143864,16624,HTTP Request,429,Too Many Requests,Search Threads Group 1-431,text,false,,583,133,37,37,https://open.spotify.com/search/Hello,16623,0,16542
+1739642143664,16824,HTTP Request,429,Too Many Requests,Search Threads Group 1-429,text,false,,585,133,37,37,https://open.spotify.com/search/Hello,16823,0,16712
+1739642159914,573,HTTP Request,429,Too Many Requests,Search Threads Group 1-592,text,false,,583,133,37,37,https://open.spotify.com/search/Hello,573,0,491
+1739642158919,1568,HTTP Request,429,Too Many Requests,Search Threads Group 1-582,text,false,,583,133,37,37,https://open.spotify.com/search/Hello,1568,0,1486
+1739642139472,21039,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-387,text,false,,2954,0,32,32,https://open.spotify.com/search/Hello,0,0,21039
+1739642160115,499,HTTP Request,429,Too Many Requests,Search Threads Group 1-594,text,false,,585,133,32,32,https://open.spotify.com/search/Hello,498,0,373
+1739642160216,398,HTTP Request,429,Too Many Requests,Search Threads Group 1-595,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,398,0,273
+1739642143964,16652,HTTP Request,429,Too Many Requests,Search Threads Group 1-432,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,16651,0,16525
+1739642160019,596,HTTP Request,429,Too Many Requests,Search Threads Group 1-593,text,false,,585,133,32,32,https://open.spotify.com/search/Hello,595,0,469
+1739642160314,459,HTTP Request,429,Too Many Requests,Search Threads Group 1-596,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,459,0,301
+1739642160414,359,HTTP Request,429,Too Many Requests,Search Threads Group 1-597,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,359,0,203
+1739642159518,1562,HTTP Request,429,Too Many Requests,Search Threads Group 1-588,text,false,,585,133,31,31,https://open.spotify.com/search/Hello,1561,0,1256
+1739642160515,565,HTTP Request,429,Too Many Requests,Search Threads Group 1-598,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,564,0,259
+1739642144361,16720,HTTP Request,429,Too Many Requests,Search Threads Group 1-436,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,16719,0,16414
+1739642159616,1770,HTTP Request,429,Too Many Requests,Search Threads Group 1-589,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,1769,0,1465
+1739642159715,1878,HTTP Request,429,Too Many Requests,Search Threads Group 1-590,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,1878,0,1570
+1739642159815,1882,HTTP Request,429,Too Many Requests,Search Threads Group 1-591,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,1882,0,1575
+1739642160813,884,HTTP Request,429,Too Many Requests,Search Threads Group 1-601,text,false,,585,133,32,32,https://open.spotify.com/search/Hello,884,0,576
+1739642160623,1074,HTTP Request,429,Too Many Requests,Search Threads Group 1-599,text,false,,585,133,32,32,https://open.spotify.com/search/Hello,1074,0,766
+1739642160913,885,HTTP Request,429,Too Many Requests,Search Threads Group 1-602,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,885,0,580
+1739642161013,877,HTTP Request,429,Too Many Requests,Search Threads Group 1-603,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,876,0,581
+1739642161112,778,HTTP Request,429,Too Many Requests,Search Threads Group 1-604,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,778,0,587
+1739642161222,882,HTTP Request,429,Too Many Requests,Search Threads Group 1-605,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,882,0,577
+1739642161413,736,HTTP Request,429,Too Many Requests,Search Threads Group 1-607,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,735,0,480
+1739642161311,838,HTTP Request,429,Too Many Requests,Search Threads Group 1-606,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,837,0,581
+1739642161511,797,HTTP Request,429,Too Many Requests,Search Threads Group 1-608,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,797,0,595
+1739642161711,597,HTTP Request,429,Too Many Requests,Search Threads Group 1-610,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,597,0,440
+1739642161610,698,HTTP Request,429,Too Many Requests,Search Threads Group 1-609,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,698,0,542
+1739642161809,750,HTTP Request,429,Too Many Requests,Search Threads Group 1-611,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,750,0,501
+1739642161910,650,HTTP Request,429,Too Many Requests,Search Threads Group 1-612,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,649,0,400
+1739642162109,617,HTTP Request,429,Too Many Requests,Search Threads Group 1-614,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,617,0,451
+1739642162309,677,HTTP Request,429,Too Many Requests,Search Threads Group 1-616,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,677,0,418
+1739642162208,778,HTTP Request,429,Too Many Requests,Search Threads Group 1-615,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,778,0,520
+1739642162408,659,HTTP Request,429,Too Many Requests,Search Threads Group 1-617,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,658,0,540
+1739642162607,728,HTTP Request,429,Too Many Requests,Search Threads Group 1-619,text,false,,585,133,31,31,https://open.spotify.com/search/Hello,728,0,462
+1739642162806,655,HTTP Request,429,Too Many Requests,Search Threads Group 1-621,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,655,0,530
+1739642147854,15878,HTTP Request,429,Too Many Requests,Search Threads Group 1-471,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,15878,0,15532
+1739642163005,726,HTTP Request,429,Too Many Requests,Search Threads Group 1-623,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,726,0,492
+1739642162008,1723,HTTP Request,429,Too Many Requests,Search Threads Group 1-613,text,false,,585,133,32,32,https://open.spotify.com/search/Hello,1723,0,1487
+1739642163106,753,HTTP Request,429,Too Many Requests,Search Threads Group 1-624,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,752,0,627
+1739642163205,656,HTTP Request,429,Too Many Requests,Search Threads Group 1-625,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,654,0,528
+1739642148052,15810,HTTP Request,429,Too Many Requests,Search Threads Group 1-473,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,15809,0,15683
+1739642162508,1453,HTTP Request,429,Too Many Requests,Search Threads Group 1-618,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,1452,0,1348
+1739642163704,376,HTTP Request,429,Too Many Requests,Search Threads Group 1-630,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,375,0,260
+1739642163903,284,HTTP Request,429,Too Many Requests,Search Threads Group 1-632,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,283,0,196
+1739642164003,293,HTTP Request,429,Too Many Requests,Search Threads Group 1-633,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,292,0,192
+1739642164104,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-634,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,289,0,193
+1739642164200,299,HTTP Request,429,Too Many Requests,Search Threads Group 1-635,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,299,0,193
+1739642164302,263,HTTP Request,429,Too Many Requests,Search Threads Group 1-636,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,263,0,183
+1739642164400,268,HTTP Request,429,Too Many Requests,Search Threads Group 1-637,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,268,0,166
+1739642163404,1264,HTTP Request,429,Too Many Requests,Search Threads Group 1-627,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,1264,0,1164
+1739642163505,1264,HTTP Request,429,Too Many Requests,Search Threads Group 1-628,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,1263,0,1164
+1739642164501,271,HTTP Request,429,Too Many Requests,Search Threads Group 1-638,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,271,0,174
+1739642164599,273,HTTP Request,429,Too Many Requests,Search Threads Group 1-639,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,272,0,177
+1739642163604,1289,HTTP Request,429,Too Many Requests,Search Threads Group 1-629,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,1288,0,1186
+1739642164698,275,HTTP Request,429,Too Many Requests,Search Threads Group 1-640,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,274,0,181
+1739642163803,1475,HTTP Request,429,Too Many Requests,Search Threads Group 1-631,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,1474,0,1179
+1739642164798,480,HTTP Request,429,Too Many Requests,Search Threads Group 1-641,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,479,0,175
+1739642164898,688,HTTP Request,429,Too Many Requests,Search Threads Group 1-642,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,687,0,382
+1739642164996,895,HTTP Request,429,Too Many Requests,Search Threads Group 1-643,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,895,0,594
+1739642165097,794,HTTP Request,429,Too Many Requests,Search Threads Group 1-644,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,794,0,493
+1739642165397,806,HTTP Request,429,Too Many Requests,Search Threads Group 1-647,text,false,,585,133,33,33,https://open.spotify.com/search/Hello,806,0,497
+1739642165296,907,HTTP Request,429,Too Many Requests,Search Threads Group 1-646,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,907,0,598
+1739642165497,707,HTTP Request,429,Too Many Requests,Search Threads Group 1-648,text,false,,585,133,31,31,https://open.spotify.com/search/Hello,706,0,437
+1739642150542,15967,HTTP Request,429,Too Many Requests,Search Threads Group 1-498,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,15967,0,15664
+1739642165596,914,HTTP Request,429,Too Many Requests,Search Threads Group 1-649,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,913,0,610
+1739642165795,945,HTTP Request,429,Too Many Requests,Search Threads Group 1-651,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,945,0,528
+1739642166095,803,HTTP Request,429,Too Many Requests,Search Threads Group 1-654,text,false,,585,133,34,34,https://open.spotify.com/search/Hello,803,0,675
+1739642165195,1740,HTTP Request,429,Too Many Requests,Search Threads Group 1-645,text,false,,585,133,33,33,https://open.spotify.com/search/Hello,1739,0,1621
+1739642166493,547,HTTP Request,429,Too Many Requests,Search Threads Group 1-658,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,547,0,447
+1739642165695,1633,HTTP Request,429,Too Many Requests,Search Threads Group 1-650,text,false,,583,133,35,35,https://open.spotify.com/search/Hello,1632,0,1327
+1739642151740,15588,HTTP Request,429,Too Many Requests,Search Threads Group 1-510,text,false,,585,133,35,35,https://open.spotify.com/search/Hello,15587,0,15282
+1739642166890,601,HTTP Request,429,Too Many Requests,Search Threads Group 1-662,text,false,,585,133,35,35,https://open.spotify.com/search/Hello,600,0,439
+1739642165996,1727,HTTP Request,429,Too Many Requests,Search Threads Group 1-653,text,false,,583,133,36,36,https://open.spotify.com/search/Hello,1727,0,1497
+1739642166989,734,HTTP Request,429,Too Many Requests,Search Threads Group 1-663,text,false,,585,133,36,36,https://open.spotify.com/search/Hello,733,0,504
+1739642150940,16784,HTTP Request,429,Too Many Requests,Search Threads Group 1-502,text,false,,583,133,34,34,https://open.spotify.com/search/Hello,16783,0,16553
+1739642167387,452,HTTP Request,429,Too Many Requests,Search Threads Group 1-667,text,false,,583,133,34,34,https://open.spotify.com/search/Hello,452,0,340
+1739642167488,468,HTTP Request,429,Too Many Requests,Search Threads Group 1-668,text,false,,583,133,34,34,https://open.spotify.com/search/Hello,468,0,354
+1739642146955,21016,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-462,text,false,,2954,0,33,33,https://open.spotify.com/search/Hello,0,0,21016
+1739642151640,16407,HTTP Request,429,Too Many Requests,Search Threads Group 1-509,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,16406,0,16326
+1739642166592,1482,HTTP Request,429,Too Many Requests,Search Threads Group 1-659,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,1481,0,1306
+1739642167588,566,HTTP Request,429,Too Many Requests,Search Threads Group 1-669,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,565,0,356
+1739642167688,480,HTTP Request,429,Too Many Requests,Search Threads Group 1-670,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,479,0,356
+1739642147154,21020,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-464,text,false,,2954,0,30,30,https://open.spotify.com/search/Hello,0,0,21020
+1739642166791,1408,HTTP Request,429,Too Many Requests,Search Threads Group 1-661,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1408,0,1283
+1739642167889,365,HTTP Request,429,Too Many Requests,Search Threads Group 1-672,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,364,0,284
+1739642147254,21044,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-465,text,false,,2954,0,29,29,https://open.spotify.com/search/Hello,0,0,21044
+1739642167990,360,HTTP Request,429,Too Many Requests,Search Threads Group 1-673,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,359,0,262
+1739642167089,1261,HTTP Request,429,Too Many Requests,Search Threads Group 1-664,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,1260,0,1165
+1739642167788,564,HTTP Request,429,Too Many Requests,Search Threads Group 1-671,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,564,0,485
+1739642168090,275,HTTP Request,429,Too Many Requests,Search Threads Group 1-674,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,275,0,199
+1739642167188,1262,HTTP Request,429,Too Many Requests,Search Threads Group 1-665,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,1262,0,1177
+1739642168189,261,HTTP Request,429,Too Many Requests,Search Threads Group 1-675,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,261,0,165
+1739642167288,1272,HTTP Request,429,Too Many Requests,Search Threads Group 1-666,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1271,0,1169
+1739642168288,272,HTTP Request,429,Too Many Requests,Search Threads Group 1-676,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,271,0,166
+1739642168387,282,HTTP Request,429,Too Many Requests,Search Threads Group 1-677,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,281,0,186
+1739642168487,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-678,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,276,0,189
+1739642168586,330,HTTP Request,429,Too Many Requests,Search Threads Group 1-679,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,329,0,196
+1739642168685,328,HTTP Request,429,Too Many Requests,Search Threads Group 1-680,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,328,0,228
+1739642168788,319,HTTP Request,429,Too Many Requests,Search Threads Group 1-681,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,319,0,225
+1739642168884,333,HTTP Request,429,Too Many Requests,Search Threads Group 1-682,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,332,0,213
+1739642168983,341,HTTP Request,429,Too Many Requests,Search Threads Group 1-683,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,341,0,220
+1739642169083,312,HTTP Request,429,Too Many Requests,Search Threads Group 1-684,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,311,0,236
+1739642169184,303,HTTP Request,429,Too Many Requests,Search Threads Group 1-685,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,303,0,216
+1739642169282,316,HTTP Request,429,Too Many Requests,Search Threads Group 1-686,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,315,0,206
+1739642154331,15376,HTTP Request,429,Too Many Requests,Search Threads Group 1-536,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,15375,0,15266
+1739642169381,330,HTTP Request,429,Too Many Requests,Search Threads Group 1-687,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,329,0,217
+1739642169482,310,HTTP Request,429,Too Many Requests,Search Threads Group 1-688,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,310,0,231
+1739642169581,318,HTTP Request,429,Too Many Requests,Search Threads Group 1-689,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,317,0,219
+1739642169681,335,HTTP Request,429,Too Many Requests,Search Threads Group 1-690,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,335,0,221
+1739642154829,15375,HTTP Request,429,Too Many Requests,Search Threads Group 1-541,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,15375,0,15265
+1739642169881,328,HTTP Request,429,Too Many Requests,Search Threads Group 1-692,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,328,0,213
+1739642155428,15281,HTTP Request,429,Too Many Requests,Search Threads Group 1-547,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,15280,0,15186
+1739642155330,15383,HTTP Request,429,Too Many Requests,Search Threads Group 1-546,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,15383,0,15277
+1739642170279,436,HTTP Request,429,Too Many Requests,Search Threads Group 1-696,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,435,0,341
+1739642155529,15286,HTTP Request,429,Too Many Requests,Search Threads Group 1-548,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,15286,0,15185
+1739642170678,334,HTTP Request,429,Too Many Requests,Search Threads Group 1-700,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,333,0,238
+1739642170778,339,HTTP Request,429,Too Many Requests,Search Threads Group 1-701,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,338,0,234
+1739642169781,1336,HTTP Request,429,Too Many Requests,Search Threads Group 1-691,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,1335,0,1231
+1739642169979,1370,HTTP Request,429,Too Many Requests,Search Threads Group 1-693,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,1370,0,1249
+1739642154928,16425,HTTP Request,429,Too Many Requests,Search Threads Group 1-542,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,16425,0,16300
+1739642171175,278,HTTP Request,429,Too Many Requests,Search Threads Group 1-705,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,278,0,194
+1739642170080,1370,HTTP Request,429,Too Many Requests,Search Threads Group 1-694,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,1370,0,1280
+1739642171077,372,HTTP Request,429,Too Many Requests,Search Threads Group 1-704,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,371,0,281
+1739642170180,1343,HTTP Request,429,Too Many Requests,Search Threads Group 1-695,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1343,0,1246
+1739642171275,283,HTTP Request,429,Too Many Requests,Search Threads Group 1-706,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,283,0,189
+1739642171375,355,HTTP Request,429,Too Many Requests,Search Threads Group 1-707,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,355,0,175
+1739642170379,1410,HTTP Request,429,Too Many Requests,Search Threads Group 1-697,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1410,0,1264
+1739642170479,1519,HTTP Request,429,Too Many Requests,Search Threads Group 1-698,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1519,0,1304
+1739642170580,1469,HTTP Request,429,Too Many Requests,Search Threads Group 1-699,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1469,0,1368
+1739642171574,475,HTTP Request,429,Too Many Requests,Search Threads Group 1-709,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,475,0,363
+1739642171674,501,HTTP Request,429,Too Many Requests,Search Threads Group 1-710,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,500,0,325
+1739642171774,574,HTTP Request,429,Too Many Requests,Search Threads Group 1-711,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,573,0,384
+1739642170879,1469,HTTP Request,429,Too Many Requests,Search Threads Group 1-702,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1468,0,1286
+1739642171974,374,HTTP Request,429,Too Many Requests,Search Threads Group 1-713,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,373,0,191
+1739642151440,21038,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-507,text,false,,2954,0,22,22,https://open.spotify.com/search/Hello,0,0,21038
+1739642172073,417,HTTP Request,429,Too Many Requests,Search Threads Group 1-714,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,416,0,277
+1739642172173,437,HTTP Request,429,Too Many Requests,Search Threads Group 1-715,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,436,0,326
+1739642172373,314,HTTP Request,429,Too Many Requests,Search Threads Group 1-717,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,313,0,237
+1739642172472,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-718,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,302,0,220
+1739642171475,1337,HTTP Request,429,Too Many Requests,Search Threads Group 1-708,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,1336,0,1235
+1739642172572,315,HTTP Request,429,Too Many Requests,Search Threads Group 1-719,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,315,0,209
+1739642151840,21053,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-511,text,false,,2954,0,19,19,https://open.spotify.com/search/Hello,0,0,21053
+1739642172672,320,HTTP Request,429,Too Many Requests,Search Threads Group 1-720,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,320,0,216
+1739642172772,311,HTTP Request,429,Too Many Requests,Search Threads Group 1-721,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,310,0,220
+1739642172872,312,HTTP Request,429,Too Many Requests,Search Threads Group 1-722,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,311,0,213
+1739642172970,319,HTTP Request,429,Too Many Requests,Search Threads Group 1-723,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,319,0,212
+1739642173070,328,HTTP Request,429,Too Many Requests,Search Threads Group 1-724,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,327,0,211
+1739642173170,306,HTTP Request,429,Too Many Requests,Search Threads Group 1-725,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,306,0,198
+1739642173271,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-726,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,299,0,207
+1739642172274,1297,HTTP Request,429,Too Many Requests,Search Threads Group 1-716,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,1296,0,1212
+1739642173769,319,HTTP Request,429,Too Many Requests,Search Threads Group 1-731,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,319,0,174
+1739642165895,8296,HTTP Request,429,Too Many Requests,Search Threads Group 1-652,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,8295,0,8194
+1739642173869,322,HTTP Request,429,Too Many Requests,Search Threads Group 1-732,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,321,0,221
+1739642173968,321,HTTP Request,429,Too Many Requests,Search Threads Group 1-733,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,321,0,225
+1739642171875,2426,HTTP Request,429,Too Many Requests,Search Threads Group 1-712,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,2426,0,283
+1739642174168,329,HTTP Request,429,Too Many Requests,Search Threads Group 1-735,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,328,0,230
+1739642159120,15377,HTTP Request,429,Too Many Requests,Search Threads Group 1-584,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,15377,0,15278
+1739642159418,15284,HTTP Request,429,Too Many Requests,Search Threads Group 1-587,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,15283,0,15190
+1739642173569,1243,HTTP Request,429,Too Many Requests,Search Threads Group 1-729,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,1242,0,1166
+1739642174965,332,HTTP Request,429,Too Many Requests,Search Threads Group 1-743,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,332,0,165
+1739642175064,358,HTTP Request,429,Too Many Requests,Search Threads Group 1-744,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,357,0,234
+1739642175165,354,HTTP Request,429,Too Many Requests,Search Threads Group 1-745,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,354,0,260
+1739642175264,255,HTTP Request,429,Too Many Requests,Search Threads Group 1-746,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,255,0,164
+1739642175364,270,HTTP Request,429,Too Many Requests,Search Threads Group 1-747,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,269,0,164
+1739642154630,21031,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-539,text,false,,2954,0,24,24,https://open.spotify.com/search/Hello,0,0,21031
+1739642174468,1255,HTTP Request,429,Too Many Requests,Search Threads Group 1-738,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1254,0,1169
+1739642175462,261,HTTP Request,429,Too Many Requests,Search Threads Group 1-748,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,260,0,165
+1739642175563,261,HTTP Request,429,Too Many Requests,Search Threads Group 1-749,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,261,0,166
+1739642174667,1270,HTTP Request,429,Too Many Requests,Search Threads Group 1-740,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,1269,0,1174
+1739642175662,273,HTTP Request,429,Too Many Requests,Search Threads Group 1-750,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,273,0,168
+1739642174768,1261,HTTP Request,429,Too Many Requests,Search Threads Group 1-741,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,1261,0,1172
+1739642175761,268,HTTP Request,429,Too Many Requests,Search Threads Group 1-751,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,268,0,179
+1739642175860,251,HTTP Request,429,Too Many Requests,Search Threads Group 1-752,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,250,0,170
+1739642174865,1250,HTTP Request,429,Too Many Requests,Search Threads Group 1-742,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,1249,0,1168
+1739642176060,293,HTTP Request,429,Too Many Requests,Search Threads Group 1-754,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,292,0,176
+1739642176159,280,HTTP Request,429,Too Many Requests,Search Threads Group 1-755,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,279,0,192
+1739642176262,309,HTTP Request,429,Too Many Requests,Search Threads Group 1-756,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,309,0,219
+1739642175959,684,HTTP Request,429,Too Many Requests,Search Threads Group 1-753,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,683,0,160
+1739642176361,298,HTTP Request,429,Too Many Requests,Search Threads Group 1-757,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,297,0,188
+1739642176460,326,HTTP Request,429,Too Many Requests,Search Threads Group 1-758,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,326,0,205
+1739642176560,309,HTTP Request,429,Too Many Requests,Search Threads Group 1-759,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,309,0,219
+1739642176660,290,HTTP Request,429,Too Many Requests,Search Threads Group 1-760,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,290,0,194
+1739642176760,309,HTTP Request,429,Too Many Requests,Search Threads Group 1-761,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,309,0,191
+1739642160713,16357,HTTP Request,429,Too Many Requests,Search Threads Group 1-600,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,16356,0,16276
+1739642176860,355,HTTP Request,429,Too Many Requests,Search Threads Group 1-762,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,355,0,217
+1739642176960,330,HTTP Request,429,Too Many Requests,Search Threads Group 1-763,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,329,0,215
+1739642177159,409,HTTP Request,429,Too Many Requests,Search Threads Group 1-765,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,408,0,306
+1739642177855,325,HTTP Request,429,Too Many Requests,Search Threads Group 1-772,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,325,0,226
+1739642177954,342,HTTP Request,429,Too Many Requests,Search Threads Group 1-773,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,341,0,227
+1739642178253,339,HTTP Request,429,Too Many Requests,Search Threads Group 1-776,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,338,0,261
+1739642178354,439,HTTP Request,429,Too Many Requests,Search Threads Group 1-777,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,439,0,340
+1739642173470,5436,HTTP Request,429,Too Many Requests,Search Threads Group 1-728,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,5435,0,5324
+1739642178854,249,HTTP Request,429,Too Many Requests,Search Threads Group 1-782,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,248,0,159
+1739642178953,258,HTTP Request,429,Too Many Requests,Search Threads Group 1-783,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,258,0,158
+1739642179053,257,HTTP Request,429,Too Many Requests,Search Threads Group 1-784,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,257,0,161
+1739642162906,16403,HTTP Request,429,Too Many Requests,Search Threads Group 1-622,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,16402,0,16305
+1739642178054,1271,HTTP Request,429,Too Many Requests,Search Threads Group 1-774,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,1271,0,1164
+1739642179152,257,HTTP Request,429,Too Many Requests,Search Threads Group 1-785,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,257,0,162
+1739642179252,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-786,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,268,0,193
+1739642179352,267,HTTP Request,429,Too Many Requests,Search Threads Group 1-787,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,267,0,167
+1739642163304,16413,HTTP Request,429,Too Many Requests,Search Threads Group 1-626,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,16413,0,16315
+1739642179452,267,HTTP Request,429,Too Many Requests,Search Threads Group 1-788,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,267,0,168
+1739642178453,1265,HTTP Request,429,Too Many Requests,Search Threads Group 1-778,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,1265,0,1169
+1739642179552,271,HTTP Request,429,Too Many Requests,Search Threads Group 1-789,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,271,0,168
+1739642178553,1270,HTTP Request,429,Too Many Requests,Search Threads Group 1-779,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,1270,0,1166
+1739642178653,1269,HTTP Request,429,Too Many Requests,Search Threads Group 1-780,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,1268,0,1176
+1739642179651,271,HTTP Request,429,Too Many Requests,Search Threads Group 1-790,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,270,0,178
+1739642179752,278,HTTP Request,429,Too Many Requests,Search Threads Group 1-791,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,277,0,172
+1739642178754,1276,HTTP Request,429,Too Many Requests,Search Threads Group 1-781,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1276,0,1177
+1739642179851,276,HTTP Request,429,Too Many Requests,Search Threads Group 1-792,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,275,0,181
+1739642179951,281,HTTP Request,429,Too Many Requests,Search Threads Group 1-793,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,281,0,178
+1739642180051,283,HTTP Request,429,Too Many Requests,Search Threads Group 1-794,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,282,0,180
+1739642180149,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-795,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,288,0,186
+1739642180249,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-796,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,289,0,190
+1739642180349,293,HTTP Request,429,Too Many Requests,Search Threads Group 1-797,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,293,0,190
+1739642180448,299,HTTP Request,429,Too Many Requests,Search Threads Group 1-798,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,299,0,198
+1739642180547,303,HTTP Request,429,Too Many Requests,Search Threads Group 1-799,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,303,0,202
+1739642180648,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-800,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,301,0,210
+1739642180748,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-801,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,301,0,202
+1739642166693,15400,HTTP Request,429,Too Many Requests,Search Threads Group 1-660,text,false,,585,133,33,33,https://open.spotify.com/search/Hello,15400,0,15291
+1739642181845,334,HTTP Request,429,Too Many Requests,Search Threads Group 1-812,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,333,0,251
+1739642181943,334,HTTP Request,429,Too Many Requests,Search Threads Group 1-813,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,334,0,238
+1739642180946,1331,HTTP Request,429,Too Many Requests,Search Threads Group 1-803,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,1331,0,1235
+1739642181145,1247,HTTP Request,429,Too Many Requests,Search Threads Group 1-805,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,1246,0,1170
+1739642166194,16391,HTTP Request,429,Too Many Requests,Search Threads Group 1-655,text,false,,583,133,33,33,https://open.spotify.com/search/Hello,16390,0,16288
+1739642182342,346,HTTP Request,429,Too Many Requests,Search Threads Group 1-817,text,false,,585,133,33,33,https://open.spotify.com/search/Hello,345,0,245
+1739642166293,16395,HTTP Request,429,Too Many Requests,Search Threads Group 1-656,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,16394,0,16294
+1739642181244,1445,HTTP Request,429,Too Many Requests,Search Threads Group 1-806,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,1444,0,1350
+1739642166393,16395,HTTP Request,429,Too Many Requests,Search Threads Group 1-657,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,16394,0,16296
+1739642182541,257,HTTP Request,429,Too Many Requests,Search Threads Group 1-819,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,256,0,158
+1739642181545,1350,HTTP Request,429,Too Many Requests,Search Threads Group 1-809,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1349,0,1259
+1739642181644,1358,HTTP Request,429,Too Many Requests,Search Threads Group 1-810,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1357,0,1248
+1739642182640,362,HTTP Request,429,Too Many Requests,Search Threads Group 1-820,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,361,0,252
+1739642181743,1370,HTTP Request,429,Too Many Requests,Search Threads Group 1-811,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,1369,0,1262
+1739642182840,304,HTTP Request,429,Too Many Requests,Search Threads Group 1-822,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,304,0,196
+1739642182941,361,HTTP Request,429,Too Many Requests,Search Threads Group 1-823,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,360,0,208
+1739642182043,1269,HTTP Request,429,Too Many Requests,Search Threads Group 1-814,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,1269,0,1187
+1739642182143,1343,HTTP Request,429,Too Many Requests,Search Threads Group 1-815,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,1342,0,1173
+1739642182242,1367,HTTP Request,429,Too Many Requests,Search Threads Group 1-816,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,1367,0,1247
+1739642183239,382,HTTP Request,429,Too Many Requests,Search Threads Group 1-826,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,382,0,250
+1739642182442,1274,HTTP Request,429,Too Many Requests,Search Threads Group 1-818,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,1272,0,1187
+1739642183438,284,HTTP Request,429,Too Many Requests,Search Threads Group 1-828,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,284,0,198
+1739642183339,396,HTTP Request,429,Too Many Requests,Search Threads Group 1-827,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,395,0,283
+1739642162710,21061,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-620,text,false,,2954,0,26,26,https://open.spotify.com/search/Hello,0,0,21061
+1739642183537,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-829,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,276,0,181
+1739642183639,294,HTTP Request,429,Too Many Requests,Search Threads Group 1-830,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,293,0,191
+1739642183739,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-831,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,286,0,194
+1739642182740,1330,HTTP Request,429,Too Many Requests,Search Threads Group 1-821,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,1329,0,1213
+1739642183138,991,HTTP Request,429,Too Many Requests,Search Threads Group 1-825,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,990,0,883
+1739642183836,292,HTTP Request,429,Too Many Requests,Search Threads Group 1-832,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,291,0,190
+1739642183936,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-833,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,285,0,194
+1739642184033,292,HTTP Request,429,Too Many Requests,Search Threads Group 1-834,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,292,0,194
+1739642183039,1287,HTTP Request,429,Too Many Requests,Search Threads Group 1-824,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,1287,0,1191
+1739642184133,302,HTTP Request,429,Too Many Requests,Search Threads Group 1-835,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,301,0,194
+1739642184231,310,HTTP Request,429,Too Many Requests,Search Threads Group 1-836,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,309,0,212
+1739642184329,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-837,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,300,0,214
+1739642184429,303,HTTP Request,429,Too Many Requests,Search Threads Group 1-838,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,303,0,209
+1739642184821,383,HTTP Request,429,Too Many Requests,Search Threads Group 1-842,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,383,0,251
+1739642184920,372,HTTP Request,429,Too Many Requests,Search Threads Group 1-843,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,371,0,244
+1739642184526,782,HTTP Request,429,Too Many Requests,Search Threads Group 1-839,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,781,0,666
+1739642185119,330,HTTP Request,429,Too Many Requests,Search Threads Group 1-845,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,330,0,257
+1739642185511,247,HTTP Request,429,Too Many Requests,Search Threads Group 1-849,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,247,0,169
+1739642185609,256,HTTP Request,429,Too Many Requests,Search Threads Group 1-850,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,256,0,156
+1739642184624,1244,HTTP Request,429,Too Many Requests,Search Threads Group 1-840,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,1244,0,1168
+1739642185708,257,HTTP Request,429,Too Many Requests,Search Threads Group 1-851,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,257,0,160
+1739642185807,250,HTTP Request,429,Too Many Requests,Search Threads Group 1-852,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,250,0,160
+1739642184723,1334,HTTP Request,429,Too Many Requests,Search Threads Group 1-841,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,1334,0,1243
+1739642185906,268,HTTP Request,429,Too Many Requests,Search Threads Group 1-853,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,268,0,159
+1739642170977,15376,HTTP Request,429,Too Many Requests,Search Threads Group 1-703,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,15376,0,15198
+1739642186004,349,HTTP Request,429,Too Many Requests,Search Threads Group 1-854,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,349,0,171
+1739642185019,1334,HTTP Request,429,Too Many Requests,Search Threads Group 1-844,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,1334,0,1167
+1739642185413,940,HTTP Request,429,Too Many Requests,Search Threads Group 1-848,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,940,0,245
+1739642186103,374,HTTP Request,429,Too Many Requests,Search Threads Group 1-855,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,374,0,251
+1739642186300,278,HTTP Request,429,Too Many Requests,Search Threads Group 1-857,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,277,0,190
+1739642186201,377,HTTP Request,429,Too Many Requests,Search Threads Group 1-856,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,376,0,276
+1739642185316,1263,HTTP Request,429,Too Many Requests,Search Threads Group 1-847,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,1262,0,1176
+1739642186398,282,HTTP Request,429,Too Many Requests,Search Threads Group 1-858,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,281,0,182
+1739642186497,287,HTTP Request,429,Too Many Requests,Search Threads Group 1-859,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,286,0,185
+1739642186596,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-860,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,289,0,189
+1739642186695,295,HTTP Request,429,Too Many Requests,Search Threads Group 1-861,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,295,0,192
+1739642186792,299,HTTP Request,429,Too Many Requests,Search Threads Group 1-862,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,298,0,200
+1739642186891,301,HTTP Request,429,Too Many Requests,Search Threads Group 1-863,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,300,0,201
+1739642186989,311,HTTP Request,429,Too Many Requests,Search Threads Group 1-864,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,311,0,236
+1739642187089,310,HTTP Request,429,Too Many Requests,Search Threads Group 1-865,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,309,0,207
+1739642187974,270,HTTP Request,429,Too Many Requests,Search Threads Group 1-874,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,269,0,195
+1739642188073,247,HTTP Request,429,Too Many Requests,Search Threads Group 1-875,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,246,0,158
+1739642188172,248,HTTP Request,429,Too Many Requests,Search Threads Group 1-876,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,247,0,158
+1739642188270,261,HTTP Request,429,Too Many Requests,Search Threads Group 1-877,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,261,0,174
+1739642188371,267,HTTP Request,429,Too Many Requests,Search Threads Group 1-878,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,266,0,167
+1739642187480,1247,HTTP Request,429,Too Many Requests,Search Threads Group 1-869,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1247,0,1162
+1739642188468,259,HTTP Request,429,Too Many Requests,Search Threads Group 1-879,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,259,0,172
+1739642188568,270,HTTP Request,429,Too Many Requests,Search Threads Group 1-880,text,false,,585,133,29,29,https://open.spotify.com/search/Hello,270,0,163
+1739642188666,266,HTTP Request,429,Too Many Requests,Search Threads Group 1-881,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,266,0,185
+1739642187680,1251,HTTP Request,429,Too Many Requests,Search Threads Group 1-871,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,1251,0,1160
+1739642188764,282,HTTP Request,429,Too Many Requests,Search Threads Group 1-882,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,282,0,181
+1739642187876,1264,HTTP Request,429,Too Many Requests,Search Threads Group 1-873,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,1263,0,1163
+1739642188862,279,HTTP Request,429,Too Many Requests,Search Threads Group 1-883,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,278,0,188
+1739642188960,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-884,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,285,0,183
+1739642189060,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-885,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,284,0,186
+1739642189159,303,HTTP Request,429,Too Many Requests,Search Threads Group 1-886,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,302,0,187
+1739642174068,15393,HTTP Request,429,Too Many Requests,Search Threads Group 1-734,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,15392,0,15277
+1739642189256,296,HTTP Request,429,Too Many Requests,Search Threads Group 1-887,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,296,0,207
+1739642189355,299,HTTP Request,429,Too Many Requests,Search Threads Group 1-888,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,298,0,198
+1739642173371,16382,HTTP Request,429,Too Many Requests,Search Threads Group 1-727,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,16382,0,16283
+1739642189653,317,HTTP Request,429,Too Many Requests,Search Threads Group 1-891,text,false,,585,133,28,28,https://open.spotify.com/search/Hello,316,0,206
+1739642189748,333,HTTP Request,429,Too Many Requests,Search Threads Group 1-892,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,332,0,224
+1739642189847,321,HTTP Request,429,Too Many Requests,Search Threads Group 1-893,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,321,0,235
+1739642190142,346,HTTP Request,429,Too Many Requests,Search Threads Group 1-896,text,false,,585,133,30,30,https://open.spotify.com/search/Hello,346,0,229
+1739642174268,16410,HTTP Request,429,Too Many Requests,Search Threads Group 1-736,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,16409,0,16311
+1739642174369,16324,HTTP Request,429,Too Many Requests,Search Threads Group 1-737,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,16324,0,16248
+1739642190438,350,HTTP Request,429,Too Many Requests,Search Threads Group 1-899,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,350,0,242
+1739642189454,1334,HTTP Request,429,Too Many Requests,Search Threads Group 1-889,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1334,0,1226
+1739642190734,288,HTTP Request,429,Too Many Requests,Search Threads Group 1-902,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,287,0,181
+1739642190833,266,HTTP Request,429,Too Many Requests,Search Threads Group 1-903,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,266,0,185
+1739642190930,320,HTTP Request,429,Too Many Requests,Search Threads Group 1-904,text,false,,585,133,31,31,https://open.spotify.com/search/Hello,320,0,204
+1739642191127,377,HTTP Request,429,Too Many Requests,Search Threads Group 1-906,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,377,0,267
+1739642190044,1469,HTTP Request,429,Too Many Requests,Search Threads Group 1-895,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,1469,0,1364
+1739642191225,371,HTTP Request,429,Too Many Requests,Search Threads Group 1-907,text,false,,585,133,31,31,https://open.spotify.com/search/Hello,371,0,219
+1739642190241,1417,HTTP Request,429,Too Many Requests,Search Threads Group 1-897,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,1416,0,1271
+1739642191324,412,HTTP Request,429,Too Many Requests,Search Threads Group 1-908,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,412,0,280
+1739642190537,1367,HTTP Request,429,Too Many Requests,Search Threads Group 1-900,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,1367,0,1270
+1739642191028,979,HTTP Request,429,Too Many Requests,Search Threads Group 1-905,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,979,0,196
+1739642191719,421,HTTP Request,429,Too Many Requests,Search Threads Group 1-912,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,421,0,191
+1739642191915,513,HTTP Request,429,Too Many Requests,Search Threads Group 1-914,text,false,,583,133,34,34,https://open.spotify.com/search/Hello,512,0,422
+1739642192013,503,HTTP Request,429,Too Many Requests,Search Threads Group 1-915,text,false,,585,133,34,34,https://open.spotify.com/search/Hello,503,0,408
+1739642191422,1139,HTTP Request,429,Too Many Requests,Search Threads Group 1-909,text,false,,585,133,33,33,https://open.spotify.com/search/Hello,1139,0,1006
+1739642192113,448,HTTP Request,429,Too Many Requests,Search Threads Group 1-916,text,false,,585,133,33,33,https://open.spotify.com/search/Hello,448,0,317
+1739642191818,872,HTTP Request,429,Too Many Requests,Search Threads Group 1-913,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,872,0,706
+1739642177258,15468,HTTP Request,429,Too Many Requests,Search Threads Group 1-766,text,false,,585,133,32,32,https://open.spotify.com/search/Hello,15468,0,15295
+1739642192310,417,HTTP Request,429,Too Many Requests,Search Threads Group 1-918,text,false,,583,133,32,32,https://open.spotify.com/search/Hello,417,0,253
+1739642177358,15465,HTTP Request,429,Too Many Requests,Search Threads Group 1-767,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,15465,0,15318
+1739642192507,424,HTTP Request,429,Too Many Requests,Search Threads Group 1-920,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,423,0,268
+1739642177457,15473,HTTP Request,429,Too Many Requests,Search Threads Group 1-768,text,false,,583,133,31,31,https://open.spotify.com/search/Hello,15472,0,15323
+1739642191620,1420,HTTP Request,429,Too Many Requests,Search Threads Group 1-911,text,false,,583,133,30,30,https://open.spotify.com/search/Hello,1419,0,1320
+1739642192704,355,HTTP Request,429,Too Many Requests,Search Threads Group 1-922,text,false,,583,133,29,29,https://open.spotify.com/search/Hello,354,0,267
+1739642177657,15403,HTTP Request,429,Too Many Requests,Search Threads Group 1-770,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,15402,0,15315
+1739642177755,15390,HTTP Request,429,Too Many Requests,Search Threads Group 1-771,text,false,,583,133,28,28,https://open.spotify.com/search/Hello,15389,0,15287
+1739642192803,346,HTTP Request,429,Too Many Requests,Search Threads Group 1-923,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,345,0,258
+1739642192902,332,HTTP Request,429,Too Many Requests,Search Threads Group 1-924,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,332,0,246
+1739642192408,853,HTTP Request,429,Too Many Requests,Search Threads Group 1-919,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,852,0,266
+1739642177060,16360,HTTP Request,429,Too Many Requests,Search Threads Group 1-764,text,false,,585,133,27,27,https://open.spotify.com/search/Hello,16359,0,16174
+1739642193000,421,HTTP Request,429,Too Many Requests,Search Threads Group 1-925,text,false,,583,133,27,27,https://open.spotify.com/search/Hello,420,0,236
+1739642178153,15397,HTTP Request,429,Too Many Requests,Search Threads Group 1-775,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,15396,0,15268
+1739642193295,361,HTTP Request,429,Too Many Requests,Search Threads Group 1-928,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,361,0,257
+1739642193394,272,HTTP Request,429,Too Many Requests,Search Threads Group 1-929,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,272,0,164
+1739642192605,1082,HTTP Request,429,Too Many Requests,Search Threads Group 1-921,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,1082,0,278
+1739642193492,262,HTTP Request,429,Too Many Requests,Search Threads Group 1-930,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,261,0,183
+1739642193687,260,HTTP Request,429,Too Many Requests,Search Threads Group 1-932,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,260,0,161
+1739642193789,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-933,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,269,0,176
+1739642193885,269,HTTP Request,429,Too Many Requests,Search Threads Group 1-934,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,269,0,175
+1739642193589,672,HTTP Request,429,Too Many Requests,Search Threads Group 1-931,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,672,0,163
+1739642193983,377,HTTP Request,429,Too Many Requests,Search Threads Group 1-935,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,376,0,172
+1739642194083,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-936,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,276,0,175
+1739642193099,1262,HTTP Request,429,Too Many Requests,Search Threads Group 1-926,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1261,0,1167
+1739642194181,285,HTTP Request,429,Too Many Requests,Search Threads Group 1-937,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,285,0,180
+1739642193197,1373,HTTP Request,429,Too Many Requests,Search Threads Group 1-927,text,false,,584,133,23,23,https://open.spotify.com/search/Hello,1372,0,1165
+1739642194279,290,HTTP Request,429,Too Many Requests,Search Threads Group 1-938,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,289,0,188
+1739642194378,291,HTTP Request,429,Too Many Requests,Search Threads Group 1-939,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,291,0,192
+1739642173670,21041,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-730,text,false,,2954,0,22,22,https://open.spotify.com/search/Hello,0,0,21041
+1739642177557,17214,HTTP Request,429,Too Many Requests,Search Threads Group 1-769,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,17213,0,17134
+1739642194477,298,HTTP Request,429,Too Many Requests,Search Threads Group 1-940,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,298,0,215
+1739642194577,297,HTTP Request,429,Too Many Requests,Search Threads Group 1-941,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,296,0,194
+1739642194773,306,HTTP Request,429,Too Many Requests,Search Threads Group 1-943,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,306,0,204
+1739642194873,311,HTTP Request,429,Too Many Requests,Search Threads Group 1-944,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,311,0,208
+1739642194970,328,HTTP Request,429,Too Many Requests,Search Threads Group 1-945,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,327,0,220
+1739642195168,421,HTTP Request,429,Too Many Requests,Search Threads Group 1-947,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,420,0,241
+1739642174568,21058,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-739,text,false,,2954,0,23,23,https://open.spotify.com/search/Hello,0,0,21058
+1739642190340,5362,HTTP Request,429,Too Many Requests,Search Threads Group 1-898,text,false,,583,133,23,23,https://open.spotify.com/search/Hello,5361,0,5284
+1739642195267,444,HTTP Request,429,Too Many Requests,Search Threads Group 1-948,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,444,0,324
+1739642195365,381,HTTP Request,429,Too Many Requests,Search Threads Group 1-949,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,380,0,284
+1739642195464,350,HTTP Request,429,Too Many Requests,Search Threads Group 1-950,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,350,0,274
+1739642195663,341,HTTP Request,429,Too Many Requests,Search Threads Group 1-952,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,340,0,236
+1739642196057,247,HTTP Request,429,Too Many Requests,Search Threads Group 1-956,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,246,0,153
+1739642181046,15361,HTTP Request,429,Too Many Requests,Search Threads Group 1-804,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,15361,0,15260
+1739642195070,1336,HTTP Request,429,Too Many Requests,Search Threads Group 1-946,text,false,,585,133,24,24,https://open.spotify.com/search/Hello,1336,0,1235
+1739642196157,250,HTTP Request,429,Too Many Requests,Search Threads Group 1-957,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,249,0,160
+1739642196256,253,HTTP Request,429,Too Many Requests,Search Threads Group 1-958,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,253,0,160
+1739642196354,256,HTTP Request,429,Too Many Requests,Search Threads Group 1-959,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,256,0,161
+1739642196452,274,HTTP Request,429,Too Many Requests,Search Threads Group 1-960,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,274,0,159
+1739642196555,288,HTTP Request,429,Too Many Requests,Search Threads Group 1-961,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,288,0,180
+1739642196747,308,HTTP Request,429,Too Many Requests,Search Threads Group 1-963,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,308,0,210
+1739642195860,1264,HTTP Request,429,Too Many Requests,Search Threads Group 1-954,text,false,,585,133,23,23,https://open.spotify.com/search/Hello,1263,0,1171
+1739642196847,286,HTTP Request,429,Too Many Requests,Search Threads Group 1-964,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,286,0,208
+1739642180847,16382,HTTP Request,429,Too Many Requests,Search Threads Group 1-802,text,false,,585,133,22,22,https://open.spotify.com/search/Hello,16381,0,16280
+1739642195959,1269,HTTP Request,429,Too Many Requests,Search Threads Group 1-955,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,1268,0,1175
+1739642196944,293,HTTP Request,429,Too Many Requests,Search Threads Group 1-965,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,293,0,190
+1739642197043,289,HTTP Request,429,Too Many Requests,Search Threads Group 1-966,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,288,0,195
+1739642197240,295,HTTP Request,429,Too Many Requests,Search Threads Group 1-968,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,294,0,194
+1739642196649,887,HTTP Request,429,Too Many Requests,Search Threads Group 1-962,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,886,0,200
+1739642197141,400,HTTP Request,429,Too Many Requests,Search Threads Group 1-967,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,400,0,192
+1739642197338,300,HTTP Request,429,Too Many Requests,Search Threads Group 1-969,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,299,0,199
+1739642181345,16300,HTTP Request,429,Too Many Requests,Search Threads Group 1-807,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,16300,0,16219
+1739642197435,306,HTTP Request,429,Too Many Requests,Search Threads Group 1-970,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,306,0,204
+1739642181445,16400,HTTP Request,429,Too Many Requests,Search Threads Group 1-808,text,false,,585,133,19,19,https://open.spotify.com/search/Hello,16399,0,16298
+1739642197535,309,HTTP Request,429,Too Many Requests,Search Threads Group 1-971,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,308,0,207
+1739642198323,335,HTTP Request,429,Too Many Requests,Search Threads Group 1-979,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,335,0,242
+1739642198620,246,HTTP Request,429,Too Many Requests,Search Threads Group 1-982,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,245,0,155
+1739642198718,251,HTTP Request,429,Too Many Requests,Search Threads Group 1-983,text,false,,585,133,26,26,https://open.spotify.com/search/Hello,250,0,161
+1739642198817,252,HTTP Request,429,Too Many Requests,Search Threads Group 1-984,text,false,,583,133,26,26,https://open.spotify.com/search/Hello,252,0,157
+1739642197830,1251,HTTP Request,429,Too Many Requests,Search Threads Group 1-974,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,1251,0,1176
+1739642198915,257,HTTP Request,429,Too Many Requests,Search Threads Group 1-985,text,false,,585,133,25,25,https://open.spotify.com/search/Hello,257,0,162
+1739642199013,263,HTTP Request,429,Too Many Requests,Search Threads Group 1-986,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,262,0,160
+1739642199111,272,HTTP Request,429,Too Many Requests,Search Threads Group 1-987,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,271,0,166
+1739642198027,1356,HTTP Request,429,Too Many Requests,Search Threads Group 1-976,text,false,,583,133,25,25,https://open.spotify.com/search/Hello,1355,0,1250
+1739642198127,1355,HTTP Request,429,Too Many Requests,Search Threads Group 1-977,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1355,0,1258
+1739642198225,1257,HTTP Request,429,Too Many Requests,Search Threads Group 1-978,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,1257,0,1159
+1739642199210,272,HTTP Request,429,Too Many Requests,Search Threads Group 1-988,text,false,,583,133,24,24,https://open.spotify.com/search/Hello,272,0,174
+1739642199308,277,HTTP Request,429,Too Many Requests,Search Threads Group 1-989,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,277,0,178
+1739642199406,279,HTTP Request,429,Too Many Requests,Search Threads Group 1-990,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,278,0,180
+1739642198423,1262,HTTP Request,429,Too Many Requests,Search Threads Group 1-980,text,false,,583,133,22,22,https://open.spotify.com/search/Hello,1261,0,1167
+1739642199504,284,HTTP Request,429,Too Many Requests,Search Threads Group 1-991,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,283,0,183
+1739642198522,1266,HTTP Request,429,Too Many Requests,Search Threads Group 1-981,text,false,,583,133,20,20,https://open.spotify.com/search/Hello,1266,0,1173
+1739642199602,334,HTTP Request,429,Too Many Requests,Search Threads Group 1-992,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,334,0,187
+1739642199702,288,HTTP Request,429,Too Many Requests,Search Threads Group 1-993,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,287,0,192
+1739642199799,296,HTTP Request,429,Too Many Requests,Search Threads Group 1-994,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,296,0,191
+1739642199897,299,HTTP Request,429,Too Many Requests,Search Threads Group 1-995,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,299,0,200
+1739642199994,304,HTTP Request,429,Too Many Requests,Search Threads Group 1-996,text,false,,583,133,21,21,https://open.spotify.com/search/Hello,303,0,204
+1739642200191,1263,HTTP Request,429,Too Many Requests,Search Threads Group 1-998,text,false,,585,133,21,21,https://open.spotify.com/search/Hello,1262,0,1188
+1739642200289,1238,HTTP Request,429,Too Many Requests,Search Threads Group 1-999,text,false,,585,133,20,20,https://open.spotify.com/search/Hello,1238,0,1162
+1739642185220,16319,HTTP Request,429,Too Many Requests,Search Threads Group 1-846,text,false,,583,133,19,19,https://open.spotify.com/search/Hello,16319,0,16242
+1739642187187,16528,HTTP Request,429,Too Many Requests,Search Threads Group 1-866,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,16527,0,16407
+1739642187284,16431,HTTP Request,429,Too Many Requests,Search Threads Group 1-867,text,false,,583,133,18,18,https://open.spotify.com/search/Hello,16431,0,16302
+1739642187579,16409,HTTP Request,429,Too Many Requests,Search Threads Group 1-870,text,false,,583,133,16,16,https://open.spotify.com/search/Hello,16409,0,16318
+1739642189552,16483,HTTP Request,429,Too Many Requests,Search Threads Group 1-890,text,false,,583,133,15,15,https://open.spotify.com/search/Hello,16482,0,16385
+1739642190636,15402,HTTP Request,429,Too Many Requests,Search Threads Group 1-901,text,false,,583,133,14,14,https://open.spotify.com/search/Hello,15402,0,15197
+1739642189948,16397,HTTP Request,429,Too Many Requests,Search Threads Group 1-894,text,false,,583,133,13,13,https://open.spotify.com/search/Hello,16397,0,16301
+1739642191521,15367,HTTP Request,429,Too Many Requests,Search Threads Group 1-910,text,false,,583,133,12,12,https://open.spotify.com/search/Hello,15367,0,15250
+1739642187382,21050,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-868,text,false,,2954,0,11,11,https://open.spotify.com/search/Hello,0,0,21050
+1739642187778,21059,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-872,text,false,,2954,0,10,10,https://open.spotify.com/search/Hello,0,0,21059
+1739642194675,16281,HTTP Request,429,Too Many Requests,Search Threads Group 1-942,text,false,,583,133,9,9,https://open.spotify.com/search/Hello,16281,0,16205
+1739642195763,15290,HTTP Request,429,Too Many Requests,Search Threads Group 1-953,text,false,,583,133,8,8,https://open.spotify.com/search/Hello,15289,0,15189
+1739642197633,15364,HTTP Request,429,Too Many Requests,Search Threads Group 1-972,text,false,,585,133,7,7,https://open.spotify.com/search/Hello,15363,0,15264
+1739642197929,15272,HTTP Request,429,Too Many Requests,Search Threads Group 1-975,text,false,,583,133,6,6,https://open.spotify.com/search/Hello,15272,0,15193
+1739642192212,21034,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-917,text,false,,2954,0,5,5,https://open.spotify.com/search/Hello,0,0,21034
+1739642197732,16298,HTTP Request,429,Too Many Requests,Search Threads Group 1-973,text,false,,585,133,4,4,https://open.spotify.com/search/Hello,16297,0,16220
+1739642200093,15495,HTTP Request,429,Too Many Requests,Search Threads Group 1-997,text,false,,583,133,3,3,https://open.spotify.com/search/Hello,15495,0,15362
+1739642195565,21050,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-951,text,false,,2954,0,2,2,https://open.spotify.com/search/Hello,0,0,21050
+1739642200383,21061,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to open.spotify.com:443 [open.spotify.com/199.232.83.42] failed: Connection timed out: connect,Search Threads Group 1-1000,text,false,,2954,0,1,1,https://open.spotify.com/search/Hello,0,0,21061
