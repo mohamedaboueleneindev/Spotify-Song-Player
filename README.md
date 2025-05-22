@@ -1,20 +1,3 @@
-# Task 
-This project implements an automated Spotify bot that can create accounts, search for songs, and add them to playlists using Selenium WebDriver.
-
-## Index:
-
-- [Manual Testing](#manual-testing)
-- [Automation testing](#automation-testing)
-    - [Installation](#installation)
-    - [Usage](#usage)
-- [Databases](#databases)
-- [Performance Testing](#performance-testing)
-
-
-# Manual Testing 
-A comprehensive set of test cases has been documented and can be found in this [Google Sheet](https://docs.google.com/spreadsheets/d/1X8QXgY4T5NFVV59R50O2KzHoXRJv_4D5kBmYU5Dk4M0/edit?usp=sharing).
-
-
 # Automation testing 
 The automation testing suite is implemented in the `main.py` file. It uses Selenium WebDriver to automate browser interactions with the Spotify web interface.
 
